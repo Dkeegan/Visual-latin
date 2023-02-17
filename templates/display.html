@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename= 'css/style.css') }}">
+    <title>Random Latin Word</title>  
+</head>
+<body>
+    <h1>Random Latin Word:</h1>
+    <p><strong>Latin:</strong> {{ latin }}</p>
+    <p><strong>Derivative:</strong> {{ derivative }}</p>
+    <form action="{{ url_for('display_data') }}" method="get">
+        <button type="submit">Get another word</button>
+    </form>
+    <div class="grid">
+        {% if photo_data %}
+            {% for photo_url, photographer, photographer_url in photo_data %}
+                <div class="photo">
+                    <a href="{{ photographer_url }}" target="_blank">{{ photographer }}</a>
+                    <a href="{{ photo_url }}" target="_blank"><img src="{{ photo_url }}" alt="{{ english }}"></a>
+                </div>
+            {% endfor %}
+        {% else %}
+            <p>No photos available.</p>
+        {% endif %}
+    </div>
+
+    <p>{{ english }}</p>
+</body>
+</html>
