@@ -1,34 +1,40 @@
-import os
+import json
+import random
 import requests
 from flask import Flask, render_template, request
-import random
-import json
 
 app = Flask(__name__)
-
-PEXELS_API_KEY = os.getenv()  # Get your API key from https://www.pexels.com/api/
+data = None
+PEXELS_API_KEY = ''
 
 with open('data.json') as f:
     data = json.load(f)
 
 @app.route('/', methods=['GET', 'POST'])
-def display_data():
-    # Select a random word from the data
-    random_word = random.choice(data)
-    english_word = random_word['English']
-    latin_word = random_word['Latin']
-    derivative_word = random_word['Derivative']
+def index():
+    if request.method == 'POST':
+        chapter = request.form.get('chapter')
+    else:
+        chapter = random.choice(list(data.keys()))
+        
+    words = data[chapter]
+    englishWord = random.choice(words)['English']
+    latinWord = None
+    for word in words:
+        if word['English'] == englishWord:
+            latinWord = word['Latin']
+            break
 
-    # Use the Pexels API to search for photos related to the English word
+    # Get 12 images from Pexels using the English word as a search term
     headers = {'Authorization': PEXELS_API_KEY}
-    params = {'query': english_word, 'per_page': 12}  # Get 12 photos instead of 1
+    params = {'query': englishWord, 'per_page': 12}  # Get 12 photos instead of 1
     response = requests.get('https://api.pexels.com/v1/search', headers=headers, params=params)
     if response.status_code == 200:
         results = response.json()['photos']
         if results:
             photo_data = []
             for result in results:
-                photo_url = result['src']['large']
+                photo_url = result['src']['medium']
                 photo_photographer = result['photographer']
                 photo_photographer_url = result['photographer_url']
                 photo_data.append((photo_url, photo_photographer, photo_photographer_url))
@@ -37,7 +43,7 @@ def display_data():
     else:
         photo_data = None
 
-    return render_template('display.html', english=english_word, latin=latin_word, derivative=derivative_word, photo_data=photo_data)
+    return render_template('display.html', chapter=chapter, englishWord=englishWord, latinWord=latinWord, photo_data=photo_data, chapters=list(data.keys()))
 
 if __name__ == '__main__':
     app.run(debug=True)
