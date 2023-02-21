@@ -1,0 +1,7080 @@
+{
+  "Chapter 1": [
+    {
+      "Latin": "fluvius",
+      "type": "Noun",
+      "English": [
+        "river"
+      ],
+      "sentences": [
+        "Nīlus fluvius est.",
+        "Rhēnus fluvius est.",
+        "Dānuvius quoque fluvius est.",
+        "Tiberis fluvius in Italiā est.",
+        "Nīlus fluvius magnus est.",
+        "Tiberis nōn est fluvius magnus, Tiberis fluvius parvus est.",
+        "Rhēnus nōn est flu­ vius parvus, sed fluvius magnus.",
+        "Dānuvius quoque fluvius magnus est.",
+        "Rhēnus quid est? Rhēnus est magnus fluvius."
+      ]
+    },
+    {
+      "Latin": "īnsula",
+      "type": "Noun",
+      "English": [
+        "island"
+      ],
+      "sentences": [
+        "Corsica īnsula est.",
+        "Britannia quoque īnsula est.",
+        "Italia īnsula nōn est.",
+        "Sicilia īnsula magna est.",
+        "Melita est īnsula parva.",
+        "Britannia nōn Insula parva, sed īnsula magna est.",
+        "Sicilia et Sardinia nōn īnsulae parvae, sed īnsulae magnae sunt.",
+        "Sardinia īnsula Rōmāna est.",
+        "Crēta, Rhodus, Naxus, Samos, Chios, Lesbos, Lēmnos, Euboea sunt īnsulae Graecae.",
+        "In Graeciā multae īnsulae sunt.",
+        "Num Crēta oppidum est? Crēta oppidum nōn est!Quid est Crēta? Crēta īnsula est.",
+        "Num Sparta īnsula est? Sparta nōn est īnsula! Quid est Sparta? Sparta oppidum est.",
+        "In vocābulō īnsula sex litterae et trēs syllabae sunt: syllaba prima īn-, secunda -su-, tertia -la."
+      ]
+    },
+    {
+      "Latin": "oppidum",
+      "type": "Noun",
+      "English": [
+        "town"
+      ],
+      "sentences": [
+        "Brundisium oppidum est.",
+        "Sparta quoque oppidum est.",
+        "Brundisium est oppidum magnum.",
+        "Tusculum oppidum parvum est.",
+        "Delphl quoque oppidum parvum est.",
+        "Sparta est oppidum Graecum.",
+        "Tusculum nōn oppidum Graecum, sed oppidum Rōmānum est.",
+        "Num Crēta oppidum est? Crēta oppidum nōn est!Quid est Crēta? Crēta īnsula est.",
+        "Num Sparta īnsula est? Sparta nōn est īnsula! Quid est Sparta? Sparta oppidum est.",
+        "Fluvins et oppidumvocābula Latīna sunt."
+      ]
+    },
+    {
+      "Latin": "ōceanus",
+      "type": "Noun",
+      "English": [
+        "ocean"
+      ],
+      "sentences": [
+        "Num ōceanus Atlanticus parvus est? Nōn parvus, sed magnus est ōceanus."
+      ]
+    },
+    {
+      "Latin": "imperium",
+      "type": "Noun",
+      "English": [
+        "command, order, empire"
+      ],
+      "sentences": [
+        "Ubi est imperium Rōmānum? Imperium Rōmānum est in Eurōpā, in Asiā, in Āfricā.",
+        "Magnum est imperium Rōmānum! LITTERAE ET NVMERI I et II numeri sunt."
+      ]
+    },
+    {
+      "Latin": "prōvincia",
+      "type": "Noun",
+      "English": [
+        "province"
+      ],
+      "sentences": [
+        "Hispānia et Syria et Aegyptus prōvinciae Rōmānae sunt.",
+        "Germānia nōn est prōvincia Rōmāna: Germānia in imperiō Rōmānō nōn est.",
+        "Sed Gallia et Britannia sunt prōvinciae Rōmānae.",
+        "In imperiō Rōmānō multae sunt prōvinciae."
+      ]
+    },
+    {
+      "Latin": "numerus",
+      "type": "Noun",
+      "English": [
+        "number"
+      ],
+      "sentences": [
+        "III quoque numerus est.",
+        "cid magnus numerus est.",
+        "Quid est iii? III numerus Rōmānus est.",
+        "Nōn, sed, magnus, numerus vo­ cābula Latīna sunt."
+      ]
+    },
+    {
+      "Latin": "littera",
+      "type": "Noun",
+      "English": [
+        "letter"
+      ],
+      "sentences": [
+        "A et B litterae sunt.",
+        "c quoque littera est.",
+        "a, b, c sunt trēs litterae.",
+        "A est littera prima (I) B littera secunda (II), c littera tertia (III).",
+        "r littera Graeca est.",
+        "c est littera Latīna.",
+        "c et d litterae Latīnae sunt.",
+        "r et a sunt litterae Graecae.",
+        "In vocābulō īnsula sex litterae et trēs syllabae sunt: syllaba prima īn-, secunda -su-, tertia -la.",
+        "In vocābulō nōn sunt trēs litterae et ūna syllaba.",
+        "r quid est? r littera Graeca est.",
+        "Num c littera Graeca est? Nōn littera Graeca, sed littera Latīna est c.",
+        "Estne B littera prima? b nōn littera prima, sed secunda est."
+      ]
+    },
+    {
+      "Latin": "vocābulum",
+      "type": "Noun",
+      "English": [
+        "Latin"
+      ],
+      "sentences": [
+        "Ubi quoque vocābulum Latlnum est.",
+        "Quid est nōn? Nōn est vocābulum Latīnum.",
+        "Vocābulum quoque vocābulum Latī­ num est!"
+      ]
+    },
+    {
+      "Latin": "capitulum",
+      "type": "Noun",
+      "English": [
+        "chapter"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "syllaba",
+      "type": "Noun",
+      "English": [
+        "syllable"
+      ],
+      "sentences": [
+        "In vocābulō īnsula sex litterae et trēs syllabae sunt: syllaba prima īn-, secunda -su-, tertia -la.",
+        "In vocābulō nōn sunt trēs litterae et ūna syllaba."
+      ]
+    },
+    {
+      "Latin": "exemplum",
+      "type": "Noun",
+      "English": [
+        "example, model"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pēnsum",
+      "type": "Noun",
+      "English": [
+        "task"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "grammatica",
+      "type": "Noun",
+      "English": [
+        "grammar"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Rōma",
+      "type": "Noun",
+      "English": [
+        "Rome"
+      ],
+      "sentences": [
+        "Rōma in Italiā est.",
+        "Estne Rōma in Galliā? Rōma in Galliā nōn est.",
+        "Ubi est Rōma? Rōma est in Italiā."
+      ]
+    },
+    {
+      "Latin": "Italia",
+      "type": "Noun",
+      "English": [
+        "Italy"
+      ],
+      "sentences": [
+        "Italia in Eurōpā est.",
+        "Italia et Graecia in Eurōpā sunt.",
+        "Hispānia et Italia et Graecia in Eurōpā sunt.",
+        "Ubi est Italia? Italia in Eurōpā est.",
+        "Italia īnsula nōn est."
+      ]
+    },
+    {
+      "Latin": "Eurōpa",
+      "type": "Noun",
+      "English": [
+        "Europe"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Graecia",
+      "type": "Noun",
+      "English": [
+        "Greece"
+      ],
+      "sentences": [
+        "Graecia in Eu­rōpā est.",
+        "Italia et Graecia in Eurōpā sunt.",
+        "Hispānia et Italia et Graecia in Eurōpā sunt."
+      ]
+    },
+    {
+      "Latin": "Hispānia",
+      "type": "Noun",
+      "English": [
+        "Spain"
+      ],
+      "sentences": [
+        "Hispānia quoque in Eurōpā est.",
+        "Hispānia et Italia et Graecia in Eurōpā sunt.",
+        "Ubi sunt Gallia et Hispānia? Gallia et Hispānia in Eu­rōpā sunt.",
+        "Hispānia et Syria et Aegyptus prōvinciae Rōmānae sunt."
+      ]
+    },
+    {
+      "Latin": "Aegyptus",
+      "type": "Noun",
+      "English": [
+        "Egypt"
+      ],
+      "sentences": [
+        "Aegyptus in Eurōpā nōn est, Aegyptus in Āfricā est.",
+        "Hispānia et Syria et Aegyptus prōvinciae Rōmānae sunt."
+      ]
+    },
+    {
+      "Latin": "Āfrica",
+      "type": "Noun",
+      "English": [
+        "Africa"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Gallia",
+      "type": "Noun",
+      "English": [
+        "Gaul, France"
+      ],
+      "sentences": [
+        "Gallia nōn in Āfricā est, Gallia est in Eurōpā.",
+        "Estne Gallia in Eurōpā? Gallia in Eurōpā est.",
+        "Ubi sunt Gallia et Hispānia? Gallia et Hispānia in Eu­rōpā sunt.",
+        "Sed Gallia et Britannia sunt prōvinciae Rōmānae."
+      ]
+    },
+    {
+      "Latin": "Syria",
+      "type": "Noun",
+      "English": [
+        "Syria"
+      ],
+      "sentences": [
+        "Syria nōn est in Eurōpā, sed in Asiā.",
+        "Syria et Arabia in Asiā sunt.",
+        "Hispānia et Syria et Aegyptus prōvinciae Rōmānae sunt."
+      ]
+    },
+    {
+      "Latin": "Arabia",
+      "type": "Noun",
+      "English": [
+        "Arabia"
+      ],
+      "sentences": [
+        "Arabia qucxjue in Asiā est.",
+        "Syria et Arabia in Asiā sunt."
+      ]
+    },
+    {
+      "Latin": "Asia",
+      "type": "Noun",
+      "English": [
+        "Asia"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Germānia",
+      "type": "Noun",
+      "English": [
+        "Germany"
+      ],
+      "sentences": [
+        "Germānia nōn in Asiā, sed in Eurōpā est.",
+        "Germānia nōn est prōvincia Rōmāna: Germānia in imperiō Rōmānō nōn est."
+      ]
+    },
+    {
+      "Latin": "Britannia",
+      "type": "Noun",
+      "English": [
+        "Britain"
+      ],
+      "sentences": [
+        "Britannia quoque in Eurōpā est.",
+        "Germā­nia et Britannia sunt in Eurōpā.",
+        "Britannia quoque īnsula est.",
+        "Britannia nōn Insula parva, sed īnsula magna est.",
+        "Sed Gallia et Britannia sunt prōvinciae Rōmānae."
+      ]
+    },
+    {
+      "Latin": "Nīlus",
+      "type": "Noun",
+      "English": [
+        "Nile"
+      ],
+      "sentences": [
+        "Estne Nīlus in Eurōpā? Nīlus in Eurōpā nōn est.",
+        "Ubi est Nīlus? Nīlus in Āfricā est.",
+        "Nīlus fluvius est.",
+        "Nīlus et Rhēnus fluviī sunt.",
+        "Nīlus fluvius magnus est.",
+        "Nīlus et Rhēnus nōn fluvil parvī, sed fluviī magnī sunt."
+      ]
+    },
+    {
+      "Latin": "Rhēnus",
+      "type": "Noun",
+      "English": [
+        "Rhine"
+      ],
+      "sentences": [
+        "Rhēnus ubi est? Rhēnus est in Germāniā.",
+        "Rhēnus fluvius est.",
+        "Nīlus et Rhēnus fluviī sunt.",
+        "Rhēnus et Dānuvius sunt fluviīin Germāniā.",
+        "Rhēnus nōn est flu­ vius parvus, sed fluvius magnus.",
+        "Nīlus et Rhēnus nōn fluvil parvī, sed fluviī magnī sunt.",
+        "Rhēnus quid est? Rhēnus est magnus fluvius."
+      ]
+    },
+    {
+      "Latin": "Dānuvius",
+      "type": "Noun",
+      "English": [
+        "Danube"
+      ],
+      "sentences": [
+        "Dānuvius quoque fluvius est.",
+        "Rhēnus et Dānuvius sunt fluviīin Germāniā.",
+        "Dānuvius quoque fluvius magnus est."
+      ]
+    },
+    {
+      "Latin": "Tiberis",
+      "type": "Noun",
+      "English": [
+        "Tiber"
+      ],
+      "sentences": [
+        "Tiberis fluvius in Italiā est.",
+        "Tiberis nōn est fluvius magnus, Tiberis fluvius parvus est."
+      ]
+    },
+    {
+      "Latin": "Corsica",
+      "type": "Noun",
+      "English": [
+        "Corsica"
+      ],
+      "sentences": [
+        "Corsica īnsula est.",
+        "Corsica et Sardinia et Sicilia īnsu­lae sunt."
+      ]
+    },
+    {
+      "Latin": "Sardinia",
+      "type": "Noun",
+      "English": [
+        "Sardinia"
+      ],
+      "sentences": [
+        "Corsica et Sardinia et Sicilia īnsu­lae sunt.",
+        "Sicilia et Sardinia nōn īnsulae parvae, sed īnsulae magnae sunt.",
+        "Sardinia īnsula Rōmāna est."
+      ]
+    },
+    {
+      "Latin": "Sicilia",
+      "type": "Noun",
+      "English": [
+        "Sicily"
+      ],
+      "sentences": [
+        "Corsica et Sardinia et Sicilia īnsu­lae sunt.",
+        "Sicilia īnsula magna est.",
+        "Sicilia et Sardinia nōn īnsulae parvae, sed īnsulae magnae sunt."
+      ]
+    },
+    {
+      "Latin": "Melita",
+      "type": "Noun",
+      "English": [
+        "Malta"
+      ],
+      "sentences": [
+        "Melita est īnsula parva."
+      ]
+    },
+    {
+      "Latin": "Brundisium",
+      "type": "Noun",
+      "English": [
+        "Brindisi"
+      ],
+      "sentences": [
+        "Brundisium oppidum est.",
+        "Brundisium et Tusculum oppida sunt.",
+        "Brundisium est oppidum magnum.",
+        "Tusculum et Brundisium sunt oppida Rōmāna."
+      ]
+    },
+    {
+      "Latin": "Tūsculum",
+      "type": "Noun",
+      "English": [
+        "Tusculum"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Sparta",
+      "type": "Noun",
+      "English": [
+        "Sparta"
+      ],
+      "sentences": [
+        "Sparta quoque oppidum est.",
+        "Ubi est Sparta? Sparta est in Graeciā.",
+        "Sparta est oppidum Graecum.",
+        "Sparta et Delphī oppida Graeca sunt.",
+        "Num Sparta īnsula est? Sparta nōn est īnsula! Quid est Sparta? Sparta oppidum est."
+      ]
+    },
+    {
+      "Latin": "Delphī",
+      "type": "Noun",
+      "English": [
+        "Delphi"
+      ],
+      "sentences": [
+        "Tusculum et Delphī nōn oppida magna, sed oppida parva sunt.",
+        "Sparta et Delphī oppida Graeca sunt."
+      ]
+    },
+    {
+      "Latin": "Crēta",
+      "type": "Noun",
+      "English": [
+        "Crete"
+      ],
+      "sentences": [
+        "Crēta, Rhodus, Naxus, Samos, Chios, Lesbos, Lēmnos, Euboea sunt īnsulae Graecae.",
+        "Num Crēta oppidum est? Crēta oppidum nōn est!Quid est Crēta? Crēta īnsula est."
+      ]
+    },
+    {
+      "Latin": "Rhodus",
+      "type": "Noun",
+      "English": [
+        "Rhodes"
+      ],
+      "sentences": [
+        "Crēta, Rhodus, Naxus, Samos, Chios, Lesbos, Lēmnos, Euboea sunt īnsulae Graecae."
+      ]
+    },
+    {
+      "Latin": "Naxus",
+      "type": "Noun",
+      "English": [
+        "Naxus"
+      ],
+      "sentences": [
+        "Crēta, Rhodus, Naxus, Samos, Chios, Lesbos, Lēmnos, Euboea sunt īnsulae Graecae."
+      ]
+    },
+    {
+      "Latin": "Samos",
+      "type": "Noun",
+      "English": [
+        "Samos"
+      ],
+      "sentences": [
+        "Crēta, Rhodus, Naxus, Samos, Chios, Lesbos, Lēmnos, Euboea sunt īnsulae Graecae."
+      ]
+    },
+    {
+      "Latin": "Chios",
+      "type": "Noun",
+      "English": [
+        "Chios"
+      ],
+      "sentences": [
+        "Crēta, Rhodus, Naxus, Samos, Chios, Lesbos, Lēmnos, Euboea sunt īnsulae Graecae."
+      ]
+    },
+    {
+      "Latin": "Lesbos",
+      "type": "Noun",
+      "English": [
+        "Lesbos"
+      ],
+      "sentences": [
+        "Crēta, Rhodus, Naxus, Samos, Chios, Lesbos, Lēmnos, Euboea sunt īnsulae Graecae."
+      ]
+    },
+    {
+      "Latin": "Lēmnos",
+      "type": "Noun",
+      "English": [
+        "Lemnos"
+      ],
+      "sentences": [
+        "Crēta, Rhodus, Naxus, Samos, Chios, Lesbos, Lēmnos, Euboea sunt īnsulae Graecae."
+      ]
+    },
+    {
+      "Latin": "Euboea",
+      "type": "Noun",
+      "English": [
+        "Euboea"
+      ],
+      "sentences": [
+        "Crēta, Rhodus, Naxus, Samos, Chios, Lesbos, Lēmnos, Euboea sunt īnsulae Graecae."
+      ]
+    },
+    {
+      "Latin": "Aemilia",
+      "type": "Noun",
+      "English": [
+        "Emily"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Mārcus",
+      "type": "Noun",
+      "English": [
+        "Marcus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Iūlia",
+      "type": "Noun",
+      "English": [
+        "Julia"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Mēdus",
+      "type": "Noun",
+      "English": [
+        "Medus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Dāvus",
+      "type": "Noun",
+      "English": [
+        "Dave"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Dēlia",
+      "type": "Noun",
+      "English": [
+        "Delia"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Syra",
+      "type": "Noun",
+      "English": [
+        "Syra"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 2": [
+    {
+      "Latin": "vir",
+      "type": "Noun",
+      "English": [
+        "man, husband"
+      ],
+      "sentences": [
+        "Iūlius vir Rōmānus est.",
+        "Mārcus et Quīntus nōn virī, sed pueri sunt.",
+        "Iūlius nōn vir Graecus, sed Rōmānus est.",
+        "In pāginā prīmā capitulī se­ cundī multa vocābula nova sunt: vir, femina, puer, puella, familia, cētera."
+      ]
+    },
+    {
+      "Latin": "fēmina",
+      "type": "Noun",
+      "English": [
+        "woman"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "puer",
+      "type": "Noun",
+      "English": [
+        "boy"
+      ],
+      "sentences": [
+        "Mārcus est puer Rōmānus.",
+        "Quīntus quoque puer Rō­ mānus est.",
+        "Mārcus et Quīntus nōn virī, sed pueri sunt.",
+        "Quis est Mārcus? Mārcus puer Rōmānus est.",
+        "In pāginā prīmā capitulī se­ cundī multa vocābula nova sunt: vir, femina, puer, puella, familia, cētera."
+      ]
+    },
+    {
+      "Latin": "puella",
+      "type": "Noun",
+      "English": [
+        "girl"
+      ],
+      "sentences": [
+        "Iūlia est puella Rōmāna.",
+        "Estne femina Iūlia? Nōn femina, sed parva puella est Iūlia.",
+        "Quae est Iulia? Iūlia est puella Rōmāna.",
+        "In pāginā prīmā capitulī se­ cundī multa vocābula nova sunt: vir, femina, puer, puella, familia, cētera."
+      ]
+    },
+    {
+      "Latin": "familia",
+      "type": "Noun",
+      "English": [
+        "family, domestic staff"
+      ],
+      "sentences": [
+        "Iūlius, Aemilia, Mārcus, Quīntus, Iūlia, Syra, Dā­ vus, Dēlia Mēdusque sunt familia Rōmāna.",
+        "Titulus capitull secundīest 'familia romana'.",
+        "In pāginā prīmā capitulī se­ cundī multa vocābula nova sunt: vir, femina, puer, puella, familia, cētera."
+      ]
+    },
+    {
+      "Latin": "pater",
+      "type": "Noun",
+      "English": [
+        "father"
+      ],
+      "sentences": [
+        "Iūlius paterest.",
+        "Iūlius pater Mārcī et Quīntī est.",
+        "Iūlius pater Iūliae quoque est.",
+        "Quis pater Mārcī est? Iūlius pater Mārcī est.",
+        "Iūlius dominus servōrum est et pater līberōrum."
+      ]
+    },
+    {
+      "Latin": "māter",
+      "type": "Noun",
+      "English": [
+        "mother"
+      ],
+      "sentences": [
+        "Aemilia est māter.",
+        "Aemilia est māter Mārcī et Quīntīet Iūliae.",
+        "Quae est māter Mārcī? Mater Mārcī est Aemilia.",
+        "Quae māter Iūliae est? Aemilia mā­ ter Iūliae est."
+      ]
+    },
+    {
+      "Latin": "fīlius",
+      "type": "Noun",
+      "English": [
+        "son"
+      ],
+      "sentences": [
+        "Estne Mēdus fīlius Iūliī? Mēdus fīlius Iūliī nōn est, Mēdus est servus Iūliī."
+      ]
+    },
+    {
+      "Latin": "fīlia",
+      "type": "Noun",
+      "English": [
+        "daughter"
+      ],
+      "sentences": [
+        "Llberī sunt ffliīfīliaeque.",
+        "Estne Dēlia fīlia Aemiliae? Dēlia nōn est fīlia Aemiliae, Dēlia ancilla Aemiliae est."
+      ]
+    },
+    {
+      "Latin": "līberī",
+      "type": "Noun",
+      "English": [
+        "children"
+      ],
+      "sentences": [
+        "Mārcus, Qulntus Iūliaque sunt trēs līberī.",
+        "Mārcus et Quīntus et Iūlia sunt līberīIQliī et Aemiliae.",
+        "Quot līberi sunt in familiā? In familiā Iūlil sunt trēs līberī."
+      ]
+    },
+    {
+      "Latin": "servus",
+      "type": "Noun",
+      "English": [
+        "slave, servant"
+      ],
+      "sentences": [
+        "Estne Mēdus fīlius Iūliī? Mēdus fīlius Iūliī nōn est, Mēdus est servus Iūliī.",
+        "Dāvus quoque servus est.",
+        "Cuius servus est Dāvus? Dāvus servus Iūliī est.",
+        "Mēdus servus Graecus est.",
+        "Mēdus nōn est servus Cornēliī.",
+        "Mēdus servus Iūliī est.",
+        "Cornēlius: \"Cuius servus est Mēdus?\" Iūlius: \"Mēdus servus meus est.\" Cornēlius: \"Estne Dāvus servus tuus?\" Iūlius: \"Dāvus quoque servus meus est."
+      ]
+    },
+    {
+      "Latin": "dominus",
+      "type": "Noun",
+      "English": [
+        "master"
+      ],
+      "sentences": [
+        "Iūlius dominus Mēdīest.",
+        "Iulius dominus servīest.",
+        "Iūlius est dominus Mēdīet Dāvī.",
+        "Iūlius dominus servōrum est et pater līberōrum.",
+        "Iūlius est dominus multōrum servōrum.",
+        "Quis est Cornēlius? Cornēlius dominus Rōmānus est."
+      ]
+    },
+    {
+      "Latin": "ancilla",
+      "type": "Noun",
+      "English": [
+        "female slave, servant"
+      ],
+      "sentences": [
+        "Estne Dēlia fīlia Aemiliae? Dēlia nōn est fīlia Aemiliae, Dēlia ancilla Aemiliae est.",
+        "Aemilia domina ancillae est.",
+        "Syra quoque ancilla est.",
+        "Dēlia et Syra duae ancillae sunt.",
+        "Cuius ancilla est Syra? Syra est ancilla Aemiliae.",
+        "Dēlia est ancilla Graeca.",
+        "Servī mel sunt Mēdus et Dāvus et cēterī multī.\" Cornēlius: \"Estne Dēlia ancilla tua?\" Iūlius: \"Dēlia est ancilla mea, et Syra quoque ancilla mea est."
+      ]
+    },
+    {
+      "Latin": "domina",
+      "type": "Noun",
+      "English": [
+        "mistress"
+      ],
+      "sentences": [
+        "Aemilia domina Dēliae est.",
+        "Aemilia domina ancillae est.",
+        "Aemilia domina ancillārum est."
+      ]
+    },
+    {
+      "Latin": "liber",
+      "type": "Noun",
+      "English": [
+        "book"
+      ],
+      "sentences": [
+        "Familia mea magna est.\" Cornēlius: \"Quot servī sunt in familiā tuā?\" Iūlius: \"In familiā meā sunt centum servī.\" Cornēlius: \"Quid?\" Iūlius: \"Numerus servōrum meōrum est centum.\" Cornēlius: \"Centum servī!Magnus est numerus ser­ vōrum tuōrum!\" liber antiquus liber novus LIBER TWS LATINVS Ecce duo libri Latīnī: liber antīquus et liber novus.",
+        "lingva latina est primus liber tuus Latīnus."
+      ]
+    },
+    {
+      "Latin": "titulus",
+      "type": "Noun",
+      "English": [
+        "title"
+      ],
+      "sentences": [
+        "'imperivm romanvm' est titulus capitulīprīml."
+      ]
+    },
+    {
+      "Latin": "pāgina",
+      "type": "Noun",
+      "English": [
+        "page"
+      ],
+      "sentences": [
+        "In lingva latina sunt multae pāginaeet multa capitula: capitulum primum, secundum, tertium, cētera.",
+        "In capitulō se­ cundō sunt sex pāginae."
+      ]
+    },
+    {
+      "Latin": "genetīvus",
+      "type": "Noun",
+      "English": [
+        "genitive"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "neutrum",
+      "type": "Noun",
+      "English": [
+        "neuter"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Cornēlius",
+      "type": "Noun",
+      "English": [
+        "Cornelius"
+      ],
+      "sentences": [
+        "Quis est Cornēlius? Cornēlius dominus Rōmānus est.",
+        "Iūlius et Cornēlius duo dominī Rōmānī sunt.",
+        "Cornēlius: \"Cuius servus est Mēdus?\" Iūlius: \"Mēdus servus meus est.\" Cornēlius: \"Estne Dāvus servus tuus?\" Iūlius: \"Dāvus quoque servus meus est.",
+        "Servī mel sunt Mēdus et Dāvus et cēterī multī.\" Cornēlius: \"Estne Dēlia ancilla tua?\" Iūlius: \"Dēlia est ancilla mea, et Syra quoque ancilla mea est.",
+        "Familia mea magna est.\" Cornēlius: \"Quot servī sunt in familiā tuā?\" Iūlius: \"In familiā meā sunt centum servī.\" Cornēlius: \"Quid?\" Iūlius: \"Numerus servōrum meōrum est centum.\" Cornēlius: \"Centum servī!Magnus est numerus ser­ vōrum tuōrum!\" liber antiquus liber novus LIBER TWS LATINVS Ecce duo libri Latīnī: liber antīquus et liber novus."
+      ]
+    },
+    {
+      "Latin": "Iūlius",
+      "type": "Noun",
+      "English": [
+        "Julius",
+        "July"
+      ],
+      "sentences": [
+        "Iūlius vir Rōmānus est.",
+        "Viri suntIūlius et Mēdus et Dāvus.",
+        "Iūlius, Aemilia, Mārcus, Quīntus, Iūlia, Syra, Dā­ vus, Dēlia Mēdusque sunt familia Rōmāna.",
+        "Iūlius paterest.",
+        "Iūlius pater Mārcī et Quīntī est.",
+        "Iūlius pater Iūliae quoque est.",
+        "Quis pater Mārcī est? Iūlius pater Mārcī est.",
+        "Pater Iūliae est Iūlius.",
+        "Iūlius dominus Mēdīest.",
+        "Iūlius est dominus Mēdīet Dāvī.",
+        "Iūlius dominus servōrum est et pater līberōrum.",
+        "Iūlius est dominus multōrum servōrum.",
+        "Iūlius nōn vir Graecus, sed Rōmānus est.",
+        "Iūlius et Cornēlius duo dominī Rōmānī sunt.",
+        "Cornēlius: \"Cuius servus est Mēdus?\" Iūlius: \"Mēdus servus meus est.\" Cornēlius: \"Estne Dāvus servus tuus?\" Iūlius: \"Dāvus quoque servus meus est.",
+        "Servī mel sunt Mēdus et Dāvus et cēterī multī.\" Cornēlius: \"Estne Dēlia ancilla tua?\" Iūlius: \"Dēlia est ancilla mea, et Syra quoque ancilla mea est.",
+        "Familia mea magna est.\" Cornēlius: \"Quot servī sunt in familiā tuā?\" Iūlius: \"In familiā meā sunt centum servī.\" Cornēlius: \"Quid?\" Iūlius: \"Numerus servōrum meōrum est centum.\" Cornēlius: \"Centum servī!Magnus est numerus ser­ vōrum tuōrum!\" liber antiquus liber novus LIBER TWS LATINVS Ecce duo libri Latīnī: liber antīquus et liber novus."
+      ]
+    }
+  ],
+  "Chapter 3": [
+    {
+      "Latin": "scaena",
+      "type": "Noun",
+      "English": [
+        "scene, stage"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "persōna",
+      "type": "Noun",
+      "English": [
+        "person"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "verbum",
+      "type": "Noun",
+      "English": [
+        "Latin, verb"
+      ],
+      "sentences": [
+        "Interrogā Mēdum!\" CARIV Iūlius Mēdum interrogat: \"Ubi sunt nummī meī, Mēde?\" Mēdus nūllum verbum respondet."
+      ]
+    },
+    {
+      "Latin": "mamma",
+      "type": "Noun",
+      "English": [
+        "mummy"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "accūsātīvus",
+      "type": "Noun",
+      "English": [
+        "accusative"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "nōminātīvus",
+      "type": "Noun",
+      "English": [
+        "nominative"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 4": [
+    {
+      "Latin": "sacculus",
+      "type": "Noun",
+      "English": [
+        "purse"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pecūnia",
+      "type": "Noun",
+      "English": [
+        "money"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "nummus",
+      "type": "Noun",
+      "English": [
+        "coin, sesterce"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "mēnsa",
+      "type": "Noun",
+      "English": [
+        "table"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "baculum",
+      "type": "Noun",
+      "English": [
+        "stick"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "indicātīvus",
+      "type": "Noun",
+      "English": [
+        "indicative"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "vocātīvus",
+      "type": "Noun",
+      "English": [
+        "vocative"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "imperātīvus",
+      "type": "Noun",
+      "English": [
+        "imperative"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 5": [
+    {
+      "Latin": "vīlla",
+      "type": "Noun",
+      "English": [
+        "country house, villa"
+      ],
+      "sentences": [
+        "Ab oppidō Tūsculō ad vīllam Iūliī nōn longa via est.",
+        "Iūlius ab oppidō ad vīllam suam it.",
+        "Dominus et servī ab oppidō ad vīllam eunt.",
+        "Quattuor servīdominum et duōs saccōs ab oppidō ad vīllam vehunt.",
+        "Quō it IQlius? Ad vīllam it."
+      ]
+    },
+    {
+      "Latin": "hortus",
+      "type": "Noun",
+      "English": [
+        "garden"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "rosa",
+      "type": "Noun",
+      "English": [
+        "rose"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "līlium",
+      "type": "Noun",
+      "English": [
+        "lily"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "nāsus",
+      "type": "Noun",
+      "English": [
+        "nose"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ōstium",
+      "type": "Noun",
+      "English": [
+        "door, entrance"
+      ],
+      "sentences": [
+        "Mēdus autem Rōmae est ante ōstium Lydiae.",
+        "Mēdus ōstium pulsat.",
+        "Lydia imperat: \"Intrā!w Mēdus per ōstium intrat et amīcam suam salutat: \"Salvē, mea Lydia! Ecce amīcus tuus quī sōlus Rōmam ad tē venit.\" Lydia verbīs Mēdī dēlectātur eumque salūtat: \"Ō amīce, salvē! Ubi est domimis tuus?\" Mēdus: \"Iūlius in vīllāest apud servōs suōsneque is iam meus dominus est!\" Verba Mēdī ā Lydiā laetā audiuntur."
+      ]
+    },
+    {
+      "Latin": "fenestra",
+      "type": "Noun",
+      "English": [
+        "window"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ātrium",
+      "type": "Noun",
+      "English": [
+        "hall"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "impluvium",
+      "type": "Noun",
+      "English": [
+        "water basin"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "aqua",
+      "type": "Noun",
+      "English": [
+        "water"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "peristȳlum",
+      "type": "Noun",
+      "English": [
+        "peristyle"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "cubiculum",
+      "type": "Noun",
+      "English": [
+        "bedroom"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ablātīvus",
+      "type": "Noun",
+      "English": [
+        "ablative"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 6": [
+    {
+      "Latin": "via",
+      "type": "Noun",
+      "English": [
+        "road, way, street"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "mūrus",
+      "type": "Noun",
+      "English": [
+        "wall"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "porta",
+      "type": "Noun",
+      "English": [
+        "gate"
+      ],
+      "sentences": [
+        "Post eum veniunt Syrus et Lēander, quī duōs saccōs portant.",
+        "Pueri saccōs plēnōs quī ā servīs portantur vident et interrogant: \"Quid inest in saccīs?\" Iūlius respondet: \"In saccō quem Lēander portat māla Insunt."
+      ]
+    },
+    {
+      "Latin": "lectīca",
+      "type": "Noun",
+      "English": [
+        "litter, sedan"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "saccus",
+      "type": "Noun",
+      "English": [
+        "sack"
+      ],
+      "sentences": [
+        "Iūlius: \"Vidēte, puerī: hic saccus plēnus mālōrum est.\"",
+        "Aperi saccum, Syre! Vidēte, pueri: hic saccus plēnus est pirōrum.\" Iū­ lius duo pira ē saccō sūmit: \"Ecce pirum tuum, Mārce, et tuum, Quīnte.\" Pater fīliīssuīs pira dat."
+      ]
+    },
+    {
+      "Latin": "umerus",
+      "type": "Noun",
+      "English": [
+        "shoulder"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "amīcus",
+      "type": "Noun",
+      "English": [
+        "friend",
+        "friendly"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "inimīcus",
+      "type": "Noun",
+      "English": [
+        "(personal) enemy",
+        "unfriendly"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "equus",
+      "type": "Noun",
+      "English": [
+        "horse"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "amīca",
+      "type": "Noun",
+      "English": [
+        "girlfriend"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "praepositiō",
+      "type": "Noun",
+      "English": [
+        "preposition"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "locātīvus",
+      "type": "Noun",
+      "English": [
+        "locative"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Capua",
+      "type": "Noun",
+      "English": [
+        "Capua"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Arīminum",
+      "type": "Noun",
+      "English": [
+        "Rimini"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Genua",
+      "type": "Noun",
+      "English": [
+        "Genoa"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Placentia",
+      "type": "Noun",
+      "English": [
+        "Piacenza"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Ursus",
+      "type": "Noun",
+      "English": [
+        "Ursus"
+      ],
+      "sentences": [
+        "Ursus et Dāvus cum lectīcā vacuā discēdunt."
+      ]
+    },
+    {
+      "Latin": "Syrus",
+      "type": "Noun",
+      "English": [
+        "Syrus"
+      ],
+      "sentences": [
+        "Post eum veniunt Syrus et Lēander, quī duōs saccōs portant."
+      ]
+    },
+    {
+      "Latin": "Lēander",
+      "type": "Noun",
+      "English": [
+        "Leander"
+      ],
+      "sentences": [
+        "Post eum veniunt Syrus et Lēander, quī duōs saccōs portant.",
+        "Pueri saccōs plēnōs quī ā servīs portantur vident et interrogant: \"Quid inest in saccīs?\" Iūlius respondet: \"In saccō quem Lēander portat māla Insunt.",
+        "Hīc saccum pōne, Lēander!\" Lēander saccum pōnit ante Iūlium, qul aperit eum."
+      ]
+    },
+    {
+      "Latin": "Lȳdia",
+      "type": "Noun",
+      "English": [
+        "Lydia"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Padus",
+      "type": "Noun",
+      "English": [
+        "the river Po"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Capēna",
+      "type": "Noun",
+      "English": [
+        "Capena"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 7": [
+    {
+      "Latin": "oculus",
+      "type": "Noun",
+      "English": [
+        "eye"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "lacrima",
+      "type": "Noun",
+      "English": [
+        "tear"
+      ],
+      "sentences": [
+        "In oculīseius lacrimae sunt."
+      ]
+    },
+    {
+      "Latin": "speculum",
+      "type": "Noun",
+      "English": [
+        "mirror"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ōstiārius",
+      "type": "Noun",
+      "English": [
+        "door-keeper, porter"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "mālum",
+      "type": "Noun",
+      "English": [
+        "apple"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pirum",
+      "type": "Noun",
+      "English": [
+        "pear"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ōsculum",
+      "type": "Noun",
+      "English": [
+        "kiss"
+      ],
+      "sentences": [
+        "Lydia laeta digitum suum aspicit et amīcō suō ōsculum dat."
+      ]
+    },
+    {
+      "Latin": "datīvus",
+      "type": "Noun",
+      "English": [
+        "dative"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 8": [
+    {
+      "Latin": "taberna",
+      "type": "Noun",
+      "English": [
+        "shop, stall"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "gemma",
+      "type": "Noun",
+      "English": [
+        "precious stone, jewel"
+      ],
+      "sentences": [
+        "Oculī lupī in umbrā lucent ut gemmae et dentēs ut margaritae."
+      ]
+    },
+    {
+      "Latin": "margarīta",
+      "type": "Noun",
+      "English": [
+        "pearl"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "tabernārius",
+      "type": "Noun",
+      "English": [
+        "shopkeeper"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ōrnāmentum",
+      "type": "Noun",
+      "English": [
+        "ornament, jewel"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ānulus",
+      "type": "Noun",
+      "English": [
+        "ring"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "līnea",
+      "type": "Noun",
+      "English": [
+        "string, line"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "digitus",
+      "type": "Noun",
+      "English": [
+        "finger"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "collum",
+      "type": "Noun",
+      "English": [
+        "neck"
+      ],
+      "sentences": [
+        "Lupus collum ovis petit dentibus."
+      ]
+    },
+    {
+      "Latin": "pretium",
+      "type": "Noun",
+      "English": [
+        "price, value"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "sēstertius",
+      "type": "Noun",
+      "English": [
+        "sesterce (coin)"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "prōnōmen",
+      "type": "Noun",
+      "English": [
+        "pronoun"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Albīnus",
+      "type": "Noun",
+      "English": [
+        "Albinus"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 9": [
+    {
+      "Latin": "campus",
+      "type": "Noun",
+      "English": [
+        "plain"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pāstor",
+      "type": "Noun",
+      "English": [
+        "shepherd"
+      ],
+      "sentences": [
+        "Pāstōrēs Āfri­ cae leōnēs timent, nam leōnēs nōn sōlum ovēs pāstōrum edunt, sed etiam pāstōrēs ipsōs! Nōn bēstia, sed homō est pāstor; leōnēs autem nōn sōlum aliās bēstiās, sed etiam hominēs edunt.",
+        "Neque pāstor volāre potest.",
+        "Pāstor duōs pedēs habet, itaque pāstor ambulāre potest."
+      ]
+    },
+    {
+      "Latin": "canis",
+      "type": "Noun",
+      "English": [
+        "dog"
+      ],
+      "sentences": [
+        "Equus et asinus, leō et lupus, canis et ovis bēstiae sunt.",
+        "Canis ipse nōn volat, nam canis ālās nōn habet.",
+        "Canis īrātus lātrat: \"Baubau!\" Eius vōx pulchra nōn est, canis canere nōn potest! Avēs canere possunt, piscēs nōn possunt: piscēs vōcēs nōn habent."
+      ]
+    },
+    {
+      "Latin": "ovis",
+      "type": "Noun",
+      "English": [
+        "sheep"
+      ],
+      "sentences": [
+        "Equus et asinus, leō et lupus, canis et ovis bēstiae sunt."
+      ]
+    },
+    {
+      "Latin": "cibus",
+      "type": "Noun",
+      "English": [
+        "food"
+      ],
+      "sentences": [
+        "Sine pecūniā cibus emī nōn potest."
+      ]
+    },
+    {
+      "Latin": "herba",
+      "type": "Noun",
+      "English": [
+        "grass, herb"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "rīvus",
+      "type": "Noun",
+      "English": [
+        "brook"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pānis",
+      "type": "Noun",
+      "English": [
+        "bread, loaf"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "mōns",
+      "type": "Noun",
+      "English": [
+        "mountain"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "vallis",
+      "type": "Noun",
+      "English": [
+        "valley"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "collis",
+      "type": "Noun",
+      "English": [
+        "hill"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "arbor",
+      "type": "Noun",
+      "English": [
+        "tree"
+      ],
+      "sentences": [
+        "Canis avēs, quae inter arborēs volant, aspicit.",
+        "Avēs nīdōs faciunt in arboribus; nīdīeārum inter rā­mōs et folia arborum sunt.",
+        "Iūlia pilam tenet et cum pueris pilā lūdere vult, neque iīcum puellā lūdere volunt; pueri enim nīdōsquaerunt in arboribus.",
+        "Cum aquila suprā hortum volat et cibum quaerit, parvae avēs canere nōn audent, et inter folia arborum sē occultant.",
+        "Mārcus autem nīdum reperit et Qulntum vocat: \"Ve­ nl> Quīnte! In hāc arbore nīdus est.\" Accurrit Quīntus.",
+        "Mārcus: \"Age! Ascende in arborem Quīnte!\" Quīntus in arborem ascendit; iam is suprā Mārcum in arbore est.",
+        "Mārcus ipse in arborem ascendere nōn audet! Mārcus interrogat: \"Quot sunt ōva in nīdō?\" Quīntus: \"Nūlla ōva, sed quattuor pullī Nīdus est in parvō rāmō.",
+        "Iam Quīntus et pullīquattuor sub arbore iacent."
+      ]
+    },
+    {
+      "Latin": "silva",
+      "type": "Noun",
+      "English": [
+        "wood, forest"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "lupus",
+      "type": "Noun",
+      "English": [
+        "wolf"
+      ],
+      "sentences": [
+        "Equus et asinus, leō et lupus, canis et ovis bēstiae sunt.",
+        "Leō et lupus sunt bēstiae ferae, quae aliās bēstiās capi­ unt et edunt."
+      ]
+    },
+    {
+      "Latin": "sōl",
+      "type": "Noun",
+      "English": [
+        "sun"
+      ],
+      "sentences": [
+        "Pāstōrēs Āfri­ cae leōnēs timent, nam leōnēs nōn sōlum ovēs pāstōrum edunt, sed etiam pāstōrēs ipsōs! Nōn bēstia, sed homō est pāstor; leōnēs autem nōn sōlum aliās bēstiās, sed etiam hominēs edunt.",
+        "Nōn sōlum hominēs, sed etiam bēstiae animālia sunt."
+      ]
+    },
+    {
+      "Latin": "caelum",
+      "type": "Noun",
+      "English": [
+        "sky, heaven"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "terra",
+      "type": "Noun",
+      "English": [
+        "earth, ground, country"
+      ],
+      "sentences": [
+        "Ecce rāmus cum puerō et nīdō et pullīs ad terram cadit! Mārcus Quīntum ad terram cadere videt.",
+        "Aemilia filium suum ā Iūliō portāri videt, et interro­ gat: \"Cūr puer ipse ambulāre nōn potest?\" Iūlius: \"Quīntus ambulāre nōn potest, quod nōn est avis neque ālās habet! Quī volāre vult neque potest, ad terram cadit!\" Aemilia Quīntum ā Iūliō in lectō pōnī aspicit."
+      ]
+    },
+    {
+      "Latin": "nūbēs",
+      "type": "Noun",
+      "English": [
+        "cloud"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "umbra",
+      "type": "Noun",
+      "English": [
+        "shade, shadow"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "vestīgium",
+      "type": "Noun",
+      "English": [
+        "footprint, trace"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "timor",
+      "type": "Noun",
+      "English": [
+        "fear"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "dēns",
+      "type": "Noun",
+      "English": [
+        "tooth"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "clāmor",
+      "type": "Noun",
+      "English": [
+        "shout, shouting"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "modus",
+      "type": "Noun",
+      "English": [
+        "manner, way"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "dēclīnātiō",
+      "type": "Noun",
+      "English": [
+        "avoidance, declension"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 10": [
+    {
+      "Latin": "asinus",
+      "type": "Noun",
+      "English": [
+        "ass, donkey"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "leō",
+      "type": "Noun",
+      "English": [
+        "lion"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "bēstia",
+      "type": "Noun",
+      "English": [
+        "beast, animal"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "homō",
+      "type": "Noun",
+      "English": [
+        "human being, person"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "fera",
+      "type": "Noun",
+      "English": [
+        "wild animal"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "avis",
+      "type": "Noun",
+      "English": [
+        "bird"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "piscis",
+      "type": "Noun",
+      "English": [
+        "fish"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "aquila",
+      "type": "Noun",
+      "English": [
+        "eagle"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "āēr",
+      "type": "Noun",
+      "English": [
+        "air"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "āla",
+      "type": "Noun",
+      "English": [
+        "wing"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pēs",
+      "type": "Noun",
+      "English": [
+        "foot"
+      ],
+      "sentences": [
+        "In bracchiō est manus, in crūre pēs.",
+        "Estne sānus Quīntus? Nōn est: pēs eius aeger est.",
+        "Medicus interrogat: \"Quis aegrōtat?\" Iūlius: \"Meus Quīntus fīlius aegrōtat; ambulāre nōn potest.\" Medicus: \"Cūr ambulāre nōn potest?\" Iūlius: \"Quia pēs eius aeger est."
+      ]
+    },
+    {
+      "Latin": "cauda",
+      "type": "Noun",
+      "English": [
+        "tail"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "petasus",
+      "type": "Noun",
+      "English": [
+        "hat"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "deus",
+      "type": "Noun",
+      "English": [
+        "god"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "mercātor",
+      "type": "Noun",
+      "English": [
+        "merchant"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "nūntius",
+      "type": "Noun",
+      "English": [
+        "messenger, message"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "mare",
+      "type": "Noun",
+      "English": [
+        "sea"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "flūmen",
+      "type": "Noun",
+      "English": [
+        "river"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "anima",
+      "type": "Noun",
+      "English": [
+        "breath, life, soul, ghost"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pulmō",
+      "type": "Noun",
+      "English": [
+        "lung"
+      ],
+      "sentences": [
+        "In pec­ tore cor et pulmōnēs sunt.",
+        "īnfrā pulmōnēs est iecur et venter.",
+        "Cor, pulmōnēs, iecur, venter sunt viscera hūmāna.",
+        "Homō sānus ven­ trem bonum, pulmōnēs bonōs>cor bonum habet."
+      ]
+    },
+    {
+      "Latin": "animal",
+      "type": "Noun",
+      "English": [
+        "animal, living being"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "nīdus",
+      "type": "Noun",
+      "English": [
+        "nest"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "rāmus",
+      "type": "Noun",
+      "English": [
+        "branch, bough"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "folium",
+      "type": "Noun",
+      "English": [
+        "leaf"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ōvum",
+      "type": "Noun",
+      "English": [
+        "egg"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pullus",
+      "type": "Noun",
+      "English": [
+        "young (of an animal)"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pila",
+      "type": "Noun",
+      "English": [
+        "ball"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "vōx",
+      "type": "Noun",
+      "English": [
+        "voice"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "lectus",
+      "type": "Noun",
+      "English": [
+        "bed, couch"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "īnfīnītīvus",
+      "type": "Noun",
+      "English": [
+        "infinitive"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Mercurius",
+      "type": "Noun",
+      "English": [
+        "Mercury"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Neptūnus",
+      "type": "Noun",
+      "English": [
+        "Neptune"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 11": [
+    {
+      "Latin": "ōs",
+      "type": "Noun",
+      "English": [
+        "mouth"
+      ],
+      "sentences": [
+        "Pīlum Aemiliī sex pedēs longum est.\" Mārcus: \"Quam longus est gladius eius?\" Iūlius: \"Duōs pedēs longus est,\" Mārcus: \"Duōs pedēs tantum? Cūr tam brevis est gladius?\" Iūlius: \"Quod gladius brevis nōn tam gravis est quam gladius longus.",
+        "Germānia est patria Germānōrum, ut Rōma nostra patria est.\" Iūlia: \"Cūr mllitēs Rōmānī contrā Germānōs pug­ nant? Suntne Germānl hominēs improbī?\" Iūlius: \"Mīlitēs nostri contrā Germānōs pugnant, quod Germānī amīcīRōmānōrum nōn sunt nec Rōmānīspārent.",
+        "Germānl hostēs Rōmānōrum sunt, ac bellum est inter Germānōs et Rōmānōs.",
+        "Cum exerci­ tus Germānōrum castra oppugnat, Rōmānī castra dē­ fendunt: vāllum ascendunt ac pīlain Germānōs iaciunt."
+      ]
+    },
+    {
+      "Latin": "corpus",
+      "type": "Noun",
+      "English": [
+        "body"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "membrum",
+      "type": "Noun",
+      "English": [
+        "limb"
+      ],
+      "sentences": [
+        "Prōvincia est pars imperiī Rōmānī, utmembrum pars corporis est; Rōma enim caput imperiī est, prōvinciae membra sunt."
+      ]
+    },
+    {
+      "Latin": "bracchium",
+      "type": "Noun",
+      "English": [
+        "arm"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "crūs",
+      "type": "Noun",
+      "English": [
+        "leg"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "manus",
+      "type": "Noun",
+      "English": [
+        "hand"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "caput",
+      "type": "Noun",
+      "English": [
+        "head, chief, capital"
+      ],
+      "sentences": [
+        "Prōvincia est pars imperiī Rōmānī, utmembrum pars corporis est; Rōma enim caput imperiī est, prōvinciae membra sunt."
+      ]
+    },
+    {
+      "Latin": "auris",
+      "type": "Noun",
+      "English": [
+        "ear"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "capillus",
+      "type": "Noun",
+      "English": [
+        "hair"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "frōns",
+      "type": "Noun",
+      "English": [
+        "forehead"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "gena",
+      "type": "Noun",
+      "English": [
+        "cheek"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "cerebrum",
+      "type": "Noun",
+      "English": [
+        "brain"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "labrum",
+      "type": "Noun",
+      "English": [
+        "lip"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "lingua",
+      "type": "Noun",
+      "English": [
+        "tongue, language"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pectus",
+      "type": "Noun",
+      "English": [
+        "breast"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "cor",
+      "type": "Noun",
+      "English": [
+        "heart"
+      ],
+      "sentences": [
+        "Prōvincia est pars imperiī Rōmānī, utmembrum pars corporis est; Rōma enim caput imperiī est, prōvinciae membra sunt."
+      ]
+    },
+    {
+      "Latin": "sanguis",
+      "type": "Noun",
+      "English": [
+        "blood"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "vēna",
+      "type": "Noun",
+      "English": [
+        "vein"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "color",
+      "type": "Noun",
+      "English": [
+        "color"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "iecur",
+      "type": "Noun",
+      "English": [
+        "liver"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "venter",
+      "type": "Noun",
+      "English": [
+        "belly, stomach"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "viscera",
+      "type": "Noun",
+      "English": [
+        "internal organs, entrails"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "medicus",
+      "type": "Noun",
+      "English": [
+        "physician, doctor"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pōculum",
+      "type": "Noun",
+      "English": [
+        "cup"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "culter",
+      "type": "Noun",
+      "English": [
+        "knife"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 12": [
+    {
+      "Latin": "arcus",
+      "type": "Noun",
+      "English": [
+        "bow"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "arma",
+      "type": "Noun",
+      "English": [
+        "arms"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "avunculus",
+      "type": "Noun",
+      "English": [
+        "(maternal) uncle"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "bellum",
+      "type": "Noun",
+      "English": [
+        "war"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "castra",
+      "type": "Noun",
+      "English": [
+        "camp"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "cognōmen",
+      "type": "Noun",
+      "English": [
+        "surname"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "dux",
+      "type": "Noun",
+      "English": [
+        "leader, chief, general"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "eques",
+      "type": "Noun",
+      "English": [
+        "horseman"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "equitātus",
+      "type": "Noun",
+      "English": [
+        "cavalry"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "exercitus",
+      "type": "Noun",
+      "English": [
+        "army"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "fīnis",
+      "type": "Noun",
+      "English": [
+        "boundary, limit, end"
+      ],
+      "sentences": [
+        "Māne fīnis noctis est atque initium diēl."
+      ]
+    },
+    {
+      "Latin": "fossa",
+      "type": "Noun",
+      "English": [
+        "ditch, trench"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "frāter",
+      "type": "Noun",
+      "English": [
+        "brother"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "gladius",
+      "type": "Noun",
+      "English": [
+        "sLatin"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "hasta",
+      "type": "Noun",
+      "English": [
+        "lance"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "hostis",
+      "type": "Noun",
+      "English": [
+        "enemy"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "impetus",
+      "type": "Noun",
+      "English": [
+        "attack, charge"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "metus",
+      "type": "Noun",
+      "English": [
+        "fear"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "mīles",
+      "type": "Noun",
+      "English": [
+        "soldier"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "nōmen",
+      "type": "Noun",
+      "English": [
+        "name"
+      ],
+      "sentences": [
+        "Diēī prīmōmēnsis Iūliī 'kalendae Iūliae' nōmen est; is est diēs annī medius.",
+        "Hōc annī tempore diēs nōn tam calidī sunt quam aestāte et noctēs frigidiōrēs sunt.\" Quīntus: \"Quī mēnsis annī calidissimus est?\" CAR XIII Aemilia: \"Iulius.\" Quīntus: \"Cūr ille mēnsis patris nōmen habet?\" Aemilia rīdet et respondet: \"Mēnsis Iūlius nōn ā patre tuō nōmen habet — nōn tantus vir est ille! — sed ā Iuliō Caesare.",
+        "Item mēnsīAugustō nōmen erat 'Sextīlis', quia sextus erat, nunc Augustus nōminātur ā Caesare Augustō. —"
+      ]
+    },
+    {
+      "Latin": "pars",
+      "type": "Noun",
+      "English": [
+        "part, direction"
+      ],
+      "sentences": [
+        "Sex mēnsēs sunt dīmidia pars annī, trēs mēnsēs quārta pars annī.",
+        "Prima pars diēī est māne, pars postrēma vesper.",
+        "Sex hōrae sunt dīmidia pars diēī.",
+        "Neque tōta lūna sōle illūstrātur, sed tantum ea pars quae verti­ tur ad sōlem; cētera pars obscūra est.",
+        "Cum exigua pars lūnae tantum vidētur, lūna 'nova' esse dīcitur."
+      ]
+    },
+    {
+      "Latin": "passus",
+      "type": "Noun",
+      "English": [
+        "pace (1.48 m)"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "patria",
+      "type": "Noun",
+      "English": [
+        "native country / town"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pedes",
+      "type": "Noun",
+      "English": [
+        "foot-soldier"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pīlum",
+      "type": "Noun",
+      "English": [
+        "spear, javelin"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "praenōmen",
+      "type": "Noun",
+      "English": [
+        "first name"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pugnus",
+      "type": "Noun",
+      "English": [
+        "fist"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "sagitta",
+      "type": "Noun",
+      "English": [
+        "arrow"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "scūtum",
+      "type": "Noun",
+      "English": [
+        "shield"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "soror",
+      "type": "Noun",
+      "English": [
+        "sister"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "vāllum",
+      "type": "Noun",
+      "English": [
+        "rampart"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "versus",
+      "type": "Noun",
+      "English": [
+        "line, verse",
+        "towards"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "adiectīvum",
+      "type": "Noun",
+      "English": [
+        "adjective"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "comparātīvus",
+      "type": "Noun",
+      "English": [
+        "comparative"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Lūcius",
+      "type": "Noun",
+      "English": [
+        "Lucius"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Balbus",
+      "type": "Noun",
+      "English": [
+        "Balbus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Aulus",
+      "type": "Noun",
+      "English": [
+        "Aulus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Gāius",
+      "type": "Noun",
+      "English": [
+        "Gaius"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Pūblius",
+      "type": "Noun",
+      "English": [
+        "Publius"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Titus",
+      "type": "Noun",
+      "English": [
+        "Titus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Aemilius",
+      "type": "Noun",
+      "English": [
+        "Aemilius"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Paulus",
+      "type": "Noun",
+      "English": [
+        "Paulus"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 13": [
+    {
+      "Latin": "Iūlius",
+      "type": "Noun",
+      "English": [
+        "Julius",
+        "July"
+      ],
+      "sentences": [
+        "Mārcus autem magnum mālum ā patre poscit: \"Dā mihi illud mālum, pater! Venter vacuus est mihi.\" Iūlius Mārcō pānem dāns uPrimum ēs pānem\" in­ quit, \"deinde mālum!\" Mārcus pānem suum ēst.",
+        "Iūlius: \"Ecce Dāvus tibi libmm et cēterās rēs tuās affert.",
+        "Iūlius: \"Mēdus tēcum īre nōn potest.",
+        "atque mē ipsum omnēs rēs meās portāre? Cūr ille servus mēcum venīre nōn potest ut solet? Etiamne Mēdō caput dolet?\" Iūlius: \"Immō bene valet Mēdus, sed hodiē aliās rēs agit.\" Mārcus: \"Quae sunt illae rēs?\" Iūlius nihil ad hoc respondet et \"Iam\" inquit \"tempus est discēdere, Mārce.\" CAR XIV Mārcus mālum, librum, tabulam, stilum rēgulamque sēcum ferēns ē vīllāabit."
+      ]
+    },
+    {
+      "Latin": "aequinoctium",
+      "type": "Noun",
+      "English": [
+        "equinox"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "aestās",
+      "type": "Noun",
+      "English": [
+        "summer"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "annus",
+      "type": "Noun",
+      "English": [
+        "year"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "autumnus",
+      "type": "Noun",
+      "English": [
+        "autumn"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "diēs",
+      "type": "Noun",
+      "English": [
+        "day, date"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "faciēs",
+      "type": "Noun",
+      "English": [
+        "face"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "fōrma",
+      "type": "Noun",
+      "English": [
+        "form, shape, figure"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "glaciēs",
+      "type": "Noun",
+      "English": [
+        "ice"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "hiems",
+      "type": "Noun",
+      "English": [
+        "winter"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "hōra",
+      "type": "Noun",
+      "English": [
+        "hour"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "īdūs",
+      "type": "Noun",
+      "English": [
+        "the 13th or 15th (day)"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "imber",
+      "type": "Noun",
+      "English": [
+        "rain, shower"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "initium",
+      "type": "Noun",
+      "English": [
+        "beginning"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "kalendae",
+      "type": "Noun",
+      "English": [
+        "the 1st (of the month)"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "lacus",
+      "type": "Noun",
+      "English": [
+        "lake"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "lūna",
+      "type": "Noun",
+      "English": [
+        "moon"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "lūx",
+      "type": "Noun",
+      "English": [
+        "light, daylight"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "māne",
+      "type": "Noun",
+      "English": [
+        "morning",
+        "in the morning"
+      ],
+      "sentences": [
+        "Ō, quam longa nox est! Sed iam māne est, nam gallus canit."
+      ]
+    },
+    {
+      "Latin": "māne",
+      "type": "Noun",
+      "English": [
+        "morning",
+        "in the morning"
+      ],
+      "sentences": [
+        "Ō, quam longa nox est! Sed iam māne est, nam gallus canit."
+      ]
+    },
+    {
+      "Latin": "mēnsis",
+      "type": "Noun",
+      "English": [
+        "month"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "merīdiēs",
+      "type": "Noun",
+      "English": [
+        "midday, noon, south"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "nix",
+      "type": "Noun",
+      "English": [
+        "snow"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "nōnae",
+      "type": "Noun",
+      "English": [
+        "the 5th or 7th (of the month)"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "nox",
+      "type": "Noun",
+      "English": [
+        "night"
+      ],
+      "sentences": [
+        "Ō, quam longa nox est! Sed iam māne est, nam gallus canit."
+      ]
+    },
+    {
+      "Latin": "saeculum",
+      "type": "Noun",
+      "English": [
+        "century"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "stēlla",
+      "type": "Noun",
+      "English": [
+        "star"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "tempus",
+      "type": "Noun",
+      "English": [
+        "time"
+      ],
+      "sentences": [
+        "atque mē ipsum omnēs rēs meās portāre? Cūr ille servus mēcum venīre nōn potest ut solet? Etiamne Mēdō caput dolet?\" Iūlius: \"Immō bene valet Mēdus, sed hodiē aliās rēs agit.\" Mārcus: \"Quae sunt illae rēs?\" Iūlius nihil ad hoc respondet et \"Iam\" inquit \"tempus est discēdere, Mārce.\" CAR XIV Mārcus mālum, librum, tabulam, stilum rēgulamque sēcum ferēns ē vīllāabit."
+      ]
+    },
+    {
+      "Latin": "urbs",
+      "type": "Noun",
+      "English": [
+        "city"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "vēr",
+      "type": "Noun",
+      "English": [
+        "spring"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "vesper",
+      "type": "Noun",
+      "English": [
+        "evening"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "superlātīvus",
+      "type": "Noun",
+      "English": [
+        "superlative"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ariēs",
+      "type": "Noun",
+      "English": [
+        "ram"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "cancer",
+      "type": "Noun",
+      "English": [
+        "crab"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "lībra",
+      "type": "Noun",
+      "English": [
+        "scales"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "kalendārium",
+      "type": "Noun",
+      "English": [
+        "calendar"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Iānus",
+      "type": "Noun",
+      "English": [
+        "Janus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Mārs",
+      "type": "Noun",
+      "English": [
+        "Mars"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Caesar",
+      "type": "Noun",
+      "English": [
+        "Caesar"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 14": [
+    {
+      "Latin": "calceus",
+      "type": "Noun",
+      "English": [
+        "shoe"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "gallus",
+      "type": "Noun",
+      "English": [
+        "cock"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "parentēs",
+      "type": "Noun",
+      "English": [
+        "parents"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "rēgula",
+      "type": "Noun",
+      "English": [
+        "ruler"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "rēs",
+      "type": "Noun",
+      "English": [
+        "thing, matter, affair"
+      ],
+      "sentences": [
+        "Mārcus librum et tabulam et cēterās rēs ferēns Tusculum ambulat."
+      ]
+    },
+    {
+      "Latin": "stilus",
+      "type": "Noun",
+      "English": [
+        "stylus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "tabula",
+      "type": "Noun",
+      "English": [
+        "writing-tablet"
+      ],
+      "sentences": [
+        "Mārcus librum et tabulam et cēterās rēs ferēns Tusculum ambulat."
+      ]
+    },
+    {
+      "Latin": "toga",
+      "type": "Noun",
+      "English": [
+        "toga"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "tunica",
+      "type": "Noun",
+      "English": [
+        "tunic"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "vestīmentum",
+      "type": "Noun",
+      "English": [
+        "garment, clothing"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "participium",
+      "type": "Noun",
+      "English": [
+        "participle"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "multum",
+      "type": "Noun",
+      "English": [
+        "much"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 15": [
+    {
+      "Latin": "iānua",
+      "type": "Noun",
+      "English": [
+        "door"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "sella",
+      "type": "Noun",
+      "English": [
+        "stool, chair"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "virga",
+      "type": "Noun",
+      "English": [
+        "rod"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "discipulus",
+      "type": "Noun",
+      "English": [
+        "pupil, disciple"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "domus",
+      "type": "Noun",
+      "English": [
+        "house"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "lūdus",
+      "type": "Noun",
+      "English": [
+        "school, play, game"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "magister",
+      "type": "Noun",
+      "English": [
+        "schoolmaster, teacher"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "tergum",
+      "type": "Noun",
+      "English": [
+        "back"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "lectulus",
+      "type": "Noun",
+      "English": [
+        "(little) bed"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "vērum",
+      "type": "Noun",
+      "English": [
+        "truth",
+        "but"
+      ],
+      "sentences": [
+        "Mēdus montem Albānum, quī prope vlllam Iūliī situs est, cernit et \"Valē, Italia!\" inquit, \"Valēte montēs et vallēs, campī silvaeque! Ego in terram eō multō pul­ chriōrem, in patriam meam Graeciam!\" Mēdus laetātur neque iam dominum suum sevērum verētur."
+      ]
+    },
+    {
+      "Latin": "malum",
+      "type": "Noun",
+      "English": [
+        "evil, trouble, harm"
+      ],
+      "sentences": [
+        "Bene nāvigāmus ventō secundō atque caelō serēnō.\" Dum ille loquitur, Mēdus occidentem spectat et nūbēs ātrās procul suprā mare oriri videt; simul mare tran­ quillum fit.\"Nōn serēnum est caelum\" inquit, \"Ecce nūbēs ātrae.\" Gubernātor statim loquī dēsinit et nūbēs spectat; tum īoo vēla aspiciēns exclāmat: \"Quid (malum!) hoc est? Nū­ bēs ātrae ab occidente oriuntur et ventus simul cadit! Ō Neptūne! Dēfende nōs ā tempestāte!\" Nauta Neptū­ num, deum maris, verētur.\"Cūr Neptūnum invocās?\" inquit Mēdus, \"Prope tranquillum est mare.\" Gubernātor: \"Adhūc tranquillum est, sed exspectā paulum: simul cum illīs nūbibus ātris tempestās orīri solet cum tonitrū et fulguribus."
+      ]
+    },
+    {
+      "Latin": "Diodōrus",
+      "type": "Noun",
+      "English": [
+        "Theodor"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Sextus",
+      "type": "Noun",
+      "English": [
+        "Sextus"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 16": [
+    {
+      "Latin": "nauta",
+      "type": "Noun",
+      "English": [
+        "sailor"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ōra",
+      "type": "Noun",
+      "English": [
+        "sea-coast, border"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "altum",
+      "type": "Noun",
+      "English": [
+        "the open sea"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "locus",
+      "type": "Noun",
+      "English": [
+        "place"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "paulum",
+      "type": "Noun",
+      "English": [
+        "a little"
+      ],
+      "sentences": [
+        "Quī paulum aut nihil discere potest, stultus esse dīci­ tur."
+      ]
+    },
+    {
+      "Latin": "vēlum",
+      "type": "Noun",
+      "English": [
+        "sail"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ventus",
+      "type": "Noun",
+      "English": [
+        "wind"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "fulgur",
+      "type": "Noun",
+      "English": [
+        "flash of lightning"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "gubernātor",
+      "type": "Noun",
+      "English": [
+        "steersman"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "merx",
+      "type": "Noun",
+      "English": [
+        "commodity, pl. goods"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "nāvis",
+      "type": "Noun",
+      "English": [
+        "ship"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "occidēns",
+      "type": "Noun",
+      "English": [
+        "west"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "oriēns",
+      "type": "Noun",
+      "English": [
+        "east"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "puppis",
+      "type": "Noun",
+      "English": [
+        "stern, poop"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "septentriōnēs",
+      "type": "Noun",
+      "English": [
+        "north"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "tempestās",
+      "type": "Noun",
+      "English": [
+        "storm"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "flūctus",
+      "type": "Noun",
+      "English": [
+        "wave"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "portus",
+      "type": "Noun",
+      "English": [
+        "harbour"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "tonitrus",
+      "type": "Noun",
+      "English": [
+        "thunder"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "dēpōnēns",
+      "type": "Noun",
+      "English": [
+        "deponent"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Ōstia",
+      "type": "Noun",
+      "English": [
+        "Ostia"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Puteolī",
+      "type": "Noun",
+      "English": [
+        "Pozzuoli"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Iēsūs",
+      "type": "Noun",
+      "English": [
+        "Jesus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Chrīstus",
+      "type": "Noun",
+      "English": [
+        "Christ"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 17": [
+    {
+      "Latin": "amīcus",
+      "type": "Noun",
+      "English": [
+        "friend",
+        "friendly"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "inimīcus",
+      "type": "Noun",
+      "English": [
+        "(personal) enemy",
+        "unfriendly"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "dēnārius",
+      "type": "Noun",
+      "English": [
+        "denarius (silver coin)"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "respōnsum",
+      "type": "Noun",
+      "English": [
+        "answer"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "as",
+      "type": "Noun",
+      "English": [
+        "as (copper coin)"
+      ],
+      "sentences": [
+        "Is tabulam cuiusque pueri in manus sūmit litterāsque eōrum aspi­ cit.",
+        "Titus: \"Certē pulcherrimae sunt litterae Sextī, sed meae litterae pulchriōrēs sunt quam Mārcī.\" Magister: \"Reddite mihi tabulās, Tite et Mārce!\" Titus et Mārcus tabulās suās reddunt magistrō, qul eās simul aspicit.",
+        "Deinde magister eum tōtum vocābulum nasvm quīnquiēs scrlbere iubet, et Mārcus scribit nasvm nasvm nasvm nasv nasv."
+      ]
+    }
+  ],
+  "Chapter 18": [
+    {
+      "Latin": "cēra",
+      "type": "Noun",
+      "English": [
+        "wax"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "charta",
+      "type": "Noun",
+      "English": [
+        "paper"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "epistula",
+      "type": "Noun",
+      "English": [
+        "letter"
+      ],
+      "sentences": [
+        "Initiō Aemilia epistulās Iūliī nōn legēbat nec dōna eius accipiēbat, sed omnia ad eum remittēbat; sed post paucōs diēs neque epistulae neque flōrēs remittēbantur."
+      ]
+    },
+    {
+      "Latin": "māteria",
+      "type": "Noun",
+      "English": [
+        "material, substance"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "sententia",
+      "type": "Noun",
+      "English": [
+        "sentence, opinion"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "adverbium",
+      "type": "Noun",
+      "English": [
+        "adverb"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "calamus",
+      "type": "Noun",
+      "English": [
+        "reed, pen"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "erus",
+      "type": "Noun",
+      "English": [
+        "master"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ferrum",
+      "type": "Noun",
+      "English": [
+        "iron"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "mendum",
+      "type": "Noun",
+      "English": [
+        "mistake, error"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "papȳrus",
+      "type": "Noun",
+      "English": [
+        "papyrus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "apis",
+      "type": "Noun",
+      "English": [
+        "bee"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "cōnsonāns",
+      "type": "Noun",
+      "English": [
+        "consonant"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "mercēs",
+      "type": "Noun",
+      "English": [
+        "wage, fee, rent"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "vōcālis",
+      "type": "Noun",
+      "English": [
+        "vowel"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "bēstiola",
+      "type": "Noun",
+      "English": [
+        "small animal, insect"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "zephyrus",
+      "type": "Noun",
+      "English": [
+        "west wind"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Kaesō",
+      "type": "Noun",
+      "English": [
+        "Kaeso"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Zēnō",
+      "type": "Noun",
+      "English": [
+        "Zeno"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 19": [
+    {
+      "Latin": "columna",
+      "type": "Noun",
+      "English": [
+        "column"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "dea",
+      "type": "Noun",
+      "English": [
+        "goddess"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "mātrōna",
+      "type": "Noun",
+      "English": [
+        "married woman"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "dōnum",
+      "type": "Noun",
+      "English": [
+        "present, gift"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "forum",
+      "type": "Noun",
+      "English": [
+        "square"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "marītus",
+      "type": "Noun",
+      "English": [
+        "husband"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "signum",
+      "type": "Noun",
+      "English": [
+        "statue, sign, seal"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "tēctum",
+      "type": "Noun",
+      "English": [
+        "roof"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "templum",
+      "type": "Noun",
+      "English": [
+        "temple"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "adulēscēns",
+      "type": "Noun",
+      "English": [
+        "young man"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "amor",
+      "type": "Noun",
+      "English": [
+        "love"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "coniūnx",
+      "type": "Noun",
+      "English": [
+        "consort, wife"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "flōs",
+      "type": "Noun",
+      "English": [
+        "flower"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pulchritūdō",
+      "type": "Noun",
+      "English": [
+        "beauty"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "uxor",
+      "type": "Noun",
+      "English": [
+        "wife"
+      ],
+      "sentences": [
+        "Maritus et uxor iam nōn dē tempore praeteritō colloquuntur, sed dē tempore fu­ tūrō."
+      ]
+    },
+    {
+      "Latin": "virgō",
+      "type": "Noun",
+      "English": [
+        "maiden, young girl"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "amāns",
+      "type": "Noun",
+      "English": [
+        "lover, sweetheart"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Iūnō",
+      "type": "Noun",
+      "English": [
+        "Juno"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Cupīdō",
+      "type": "Noun",
+      "English": [
+        "Cupid"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Venus",
+      "type": "Noun",
+      "English": [
+        "Venus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Vulcānus",
+      "type": "Noun",
+      "English": [
+        "Vulcan"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Iovis",
+      "type": "Noun",
+      "English": [
+        "Jupiter"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Capitōlium",
+      "type": "Noun",
+      "English": [
+        "Capitoline Hill"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Palātium",
+      "type": "Noun",
+      "English": [
+        "Palatine Hill"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 20": [
+    {
+      "Latin": "versus",
+      "type": "Noun",
+      "English": [
+        "line, verse",
+        "towards"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "cūnae",
+      "type": "Noun",
+      "English": [
+        "cradle"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "fīliola",
+      "type": "Noun",
+      "English": [
+        "little daughter"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "colloquium",
+      "type": "Noun",
+      "English": [
+        "conversation"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "fīliolus",
+      "type": "Noun",
+      "English": [
+        "little son"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "officium",
+      "type": "Noun",
+      "English": [
+        "duty, task"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "silentium",
+      "type": "Noun",
+      "English": [
+        "silence"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "somnus",
+      "type": "Noun",
+      "English": [
+        "sleep"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "īnfāns",
+      "type": "Noun",
+      "English": [
+        "little child, baby"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "lac",
+      "type": "Noun",
+      "English": [
+        "milk"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "mulier",
+      "type": "Noun",
+      "English": [
+        "woman"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "nūtrīx",
+      "type": "Noun",
+      "English": [
+        "nurse"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "sermō",
+      "type": "Noun",
+      "English": [
+        "conversation, talk, language"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "gradus",
+      "type": "Noun",
+      "English": [
+        "step, degree"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "futūrum",
+      "type": "Noun",
+      "English": [
+        "future"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "tata",
+      "type": "Noun",
+      "English": [
+        "daddy"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 21": [
+    {
+      "Latin": "causa",
+      "type": "Noun",
+      "English": [
+        "cause, reason"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pugna",
+      "type": "Noun",
+      "English": [
+        "fight"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "tabella",
+      "type": "Noun",
+      "English": [
+        "writing-tablet"
+      ],
+      "sentences": [
+        "Tlēpolemus in llmine resistēns \"Retinē canem!\" in­ quit, \"Nōlī eum solvere! Nec vērō opus est mē monēre dē cane, ego enim legere sciō.\" Tabellārius solum intrā līmen aspicit, ubi CAVECANEMscriptum est īnfrā imāginem canis ferōcis.\"Neque haec imāgō neque canis vē­ rus mē terret!\" inquit, et propius ad canem accēdit.\"Manē foris!Minquit iānitor, \"Nōll ad hunc canem accēdere! Iam tē monuī!\" Tabellārius vērō, quamquam sīc ā iānitōre monitus est, alterum gradum ad canem versus facit — sed ecce canis in eum salit catēnam rumpēns! Homō territus ex ōstiō cēdere cōnātur, sed canis īrātus pallium eius denti­ bus prehendit et tenet.\"Ei! Canis mē mordet!\" exclāmat tabellarius, quī iam neque recēdere neque prōcēdere audet: canis fremēns eum locō sē movēre nōn sinit."
+      ]
+    },
+    {
+      "Latin": "humus",
+      "type": "Noun",
+      "English": [
+        "ground"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "porcus",
+      "type": "Noun",
+      "English": [
+        "pig"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "solum",
+      "type": "Noun",
+      "English": [
+        "soil, ground, floor"
+      ],
+      "sentences": [
+        "Tlēpolemus in llmine resistēns \"Retinē canem!\" in­ quit, \"Nōlī eum solvere! Nec vērō opus est mē monēre dē cane, ego enim legere sciō.\" Tabellārius solum intrā līmen aspicit, ubi CAVECANEMscriptum est īnfrā imāginem canis ferōcis.\"Neque haec imāgō neque canis vē­ rus mē terret!\" inquit, et propius ad canem accēdit.\"Manē foris!Minquit iānitor, \"Nōll ad hunc canem accēdere! Iam tē monuī!\" Tabellārius vērō, quamquam sīc ā iānitōre monitus est, alterum gradum ad canem versus facit — sed ecce canis in eum salit catēnam rumpēns! Homō territus ex ōstiō cēdere cōnātur, sed canis īrātus pallium eius denti­ bus prehendit et tenet.\"Ei! Canis mē mordet!\" exclāmat tabellarius, quī iam neque recēdere neque prōcēdere audet: canis fremēns eum locō sē movēre nōn sinit."
+      ]
+    },
+    {
+      "Latin": "bōs",
+      "type": "Noun",
+      "English": [
+        "ox"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "cruor",
+      "type": "Noun",
+      "English": [
+        "blood"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "sordēs",
+      "type": "Noun",
+      "English": [
+        "dirt"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "vestis",
+      "type": "Noun",
+      "English": [
+        "clothes, cloth"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "cornū",
+      "type": "Noun",
+      "English": [
+        "horn"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "genū",
+      "type": "Noun",
+      "English": [
+        "knee"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 22": [
+    {
+      "Latin": "catēna",
+      "type": "Noun",
+      "English": [
+        "chain"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "aurum",
+      "type": "Noun",
+      "English": [
+        "gold"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "faber",
+      "type": "Noun",
+      "English": [
+        "artisan, smith"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "lignum",
+      "type": "Noun",
+      "English": [
+        "wood"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pallium",
+      "type": "Noun",
+      "English": [
+        "cloak, mantle"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "tabellārius",
+      "type": "Noun",
+      "English": [
+        "letter-carrier"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "supīnum",
+      "type": "Noun",
+      "English": [
+        "supine"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "cardō",
+      "type": "Noun",
+      "English": [
+        "(door) pivot, hinge"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "foris",
+      "type": "Noun",
+      "English": [
+        "leaf of a door, door"
+      ],
+      "sentences": [
+        "Tabellārius, quī epistulam magistri trādidit, tempus perdit, sl foris respōnsum meum opperitur."
+      ]
+    },
+    {
+      "Latin": "iānitor",
+      "type": "Noun",
+      "English": [
+        "doorkeeper"
+      ],
+      "sentences": [
+        "w Hoc dīcēns iānitor epistulamdominō suō trādit."
+      ]
+    },
+    {
+      "Latin": "imāgō",
+      "type": "Noun",
+      "English": [
+        "picture"
+      ],
+      "sentences": [
+        "Dominus cēram aspiciēns signum magistrī cognōscit (est enim parva eius imāgō) et \"Missa est\" inquit \"ā magistrō Diodōrō."
+      ]
+    },
+    {
+      "Latin": "līmen",
+      "type": "Noun",
+      "English": [
+        "threshold"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Tlēpolemus",
+      "type": "Noun",
+      "English": [
+        "Tlepolemus"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 23": [
+    {
+      "Latin": "factum",
+      "type": "Noun",
+      "English": [
+        "deed, act"
+      ],
+      "sentences": [
+        "Cōnsōlāre mē, Syra! Cōnsīde hīc iūxtā lectum et loquere mēcum!\" Syra iūxtā lectum ad latus puerī laevum cōnsīdit eumque sīccōnsōlātur: \"Nōlī tristis esse quod hīc intus cubās: immō laetāre tē nōn inclūsum esse in cubiculō ut frātrem tuum! Nec Mārcō licet cum aliīspueris lūdere.\" Quīntus: \"Is nōn aegrōtat nec dolōrēs patitur.\" Syra: \"Etsī valet, certē tergī dolōrēs passus est.\" Quīntus: \"Estne verberātus Mārcus? Cūr eīnōn licet exīre? Quid factum est postquam frāter meus domum rediit? Omnia ignōrō."
+      ]
+    },
+    {
+      "Latin": "prōmissum",
+      "type": "Noun",
+      "English": [
+        "promise"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "clāvis",
+      "type": "Noun",
+      "English": [
+        "key"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "comes",
+      "type": "Noun",
+      "English": [
+        "companion"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "laus",
+      "type": "Noun",
+      "English": [
+        "praise"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pudor",
+      "type": "Noun",
+      "English": [
+        "(sense of) shame"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "verbera",
+      "type": "Noun",
+      "English": [
+        "lashes, flogging"
+      ],
+      "sentences": [
+        "Tum Mārcus, quī prīmō omnia negā­ verat, 'sē mentītum esse' fassus est.\" Qulntus: \"Profectō verbera meruit!\" Syra: \"Magister eum iam bis verberāverat, nec igitur pater eum dēnuō verberāre voluit, sed in cubiculum inclūsit."
+      ]
+    },
+    {
+      "Latin": "vultus",
+      "type": "Noun",
+      "English": [
+        "countenance, face"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 24": [
+    {
+      "Latin": "plūsquamperfectum",
+      "type": "Noun",
+      "English": [
+        "pluperfect"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "sonus",
+      "type": "Noun",
+      "English": [
+        "sound, noise"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "dolor",
+      "type": "Noun",
+      "English": [
+        "pain, grief"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "latus",
+      "type": "Noun",
+      "English": [
+        "side, flank"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "os",
+      "type": "Noun",
+      "English": [
+        "bone"
+      ],
+      "sentences": [
+        "Syra, postquam facta Mārcī nārrāvit, abīre vult, sed Quīntus \"Nōlī\" inquit \"mē relinquere! Te hīc manēre volō.",
+        "Nārrā mihi aliquam fabulam!\" Syra: \"Quam fabulam mē tibi nārrāre vīs? Fābulam­ ne dē lupō et agnō quī forte ad eundem rivum vēnē­ runt? an fabulam dē puerō quī cupīvit regere equōs quī currum Sōlis per caelum trahunt?\" Tacente Quīntō, Syra pergit: uAn cupis audīre fabu­ lam dē Achille, duce Graecōrum, quī Hectorem, ducem Trōiānum, interfecit atque corpus eius mortuum post currum suum trāxit circum moenia urbis Trōiae? an fabulam dē Rōmulō, quī prīma moenia Rōmāna aedifi­ cāvit.\" Quīntus: \".",
+        "Post ex­ pugnātiōnem urbis Mīnōs, cupidus auri atque sangui­ nis, nōn modo magnam pecūniam, sed etiam hominēs vīvōsab Athēniēnsibus postulāverat.",
+        "Quae cum primum Thēseum cōnspexit, eum amāre coepit cōnstituitque eum servāre.\"Ariadna igitur, antequam Thēseus labyrinthum in­ trāvit, ad eum accessit et sīc loquī coepit: \"Contrā Mī­ nōtaurum ego tibi auxilium ferre nōn possum.\" \"Deī\" inquit Thēseus \"mihi auxilium ferent contrā illum.",
+        "Ad pugnam parātus sum.\" Tum Ariadna \"Hoc nōn dubitō\" inquit, \"sed quōmodo exitum labyrinthī posteā reperiēs? Nēmō adhūc per sē viam ē labyrinthō ferentem repperit.",
+        "Sine timōre mortis contrā hostem eō.",
+        "Hoc tibi polliceor.\" \"Tum Thēseus, filum Ariadnae post sē trahēns, laby­ rinthum intrāvit ac sine morā Mīnōtaurum in mediō labyrinthō exspectantem petīvit, quem post brevem pugnam gladiō occīdit.",
+        "Brevī nāvis fīlil in cōnspectum vēnit, sed nāvis rediēns eadem vēla ātra gerēbat quae abiēns gesserat: Thēseus enim post necem Mlnōtaurī vēla mūtāre oblītus erat! Itaque Aegeus, ar­ bitrātus mortem fīliīeō colōre significārī, sine morā dē saxō sē iēcit in mare, quod ā nōmine eius etiam nunc 'mare Aegaeum' vocātur.\"Post mortem rēgis Aegeī fīlius eius Thēseus rēx Athēniēnsium factus est."
+      ]
+    },
+    {
+      "Latin": "strepitus",
+      "type": "Noun",
+      "English": [
+        "noise, din"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "tumultus",
+      "type": "Noun",
+      "English": [
+        "uproar"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 25": [
+    {
+      "Latin": "fābula",
+      "type": "Noun",
+      "English": [
+        "story, fable, play"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "glōria",
+      "type": "Noun",
+      "English": [
+        "glory"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "mora",
+      "type": "Noun",
+      "English": [
+        "delay"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "aedificium",
+      "type": "Noun",
+      "English": [
+        "building"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "agnus",
+      "type": "Noun",
+      "English": [
+        "lamb"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "auxilium",
+      "type": "Noun",
+      "English": [
+        "help, assistance"
+      ],
+      "sentences": [
+        "Ō diī bonī, auxilium ferte nōbīs!\" \"Daedalus vērō \"Quid iuvat deōs invocāre\" inquit, \"dum hīc quiētus sedēs? Quī ipse sē iuvāre nōn vult, auxilium deōrum nōn meret.",
+        "Puer territus, lacertōs nūdōs quatiēns, in mare cecidit ac mersus est, neque pater eī auxilium ferre potuit."
+      ]
+    },
+    {
+      "Latin": "fīlum",
+      "type": "Noun",
+      "English": [
+        "thread"
+      ],
+      "sentences": [
+        "Tum rēx īrātus cēpit Daedalum, quī fīlum cōnfecerat et Ariadnae dederat, eumque in labyrinthum inclūdī iussit unā cum eius īcarō filiō; vērum pater et filius mīrābilī modō ē labyrinthō fūgērunt."
+      ]
+    },
+    {
+      "Latin": "labyrinthus",
+      "type": "Noun",
+      "English": [
+        "labyrinth"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "mōnstrum",
+      "type": "Noun",
+      "English": [
+        "monster"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "saxum",
+      "type": "Noun",
+      "English": [
+        "rock"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "taurus",
+      "type": "Noun",
+      "English": [
+        "bull"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "cīvis",
+      "type": "Noun",
+      "English": [
+        "citizen, countryman"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "cupiditās",
+      "type": "Noun",
+      "English": [
+        "desire"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "expugnātiō",
+      "type": "Noun",
+      "English": [
+        "conquest"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "lītus",
+      "type": "Noun",
+      "English": [
+        "beach, shore"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "moenia",
+      "type": "Noun",
+      "English": [
+        "walls"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "mors",
+      "type": "Noun",
+      "English": [
+        "death"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "nārrātiō",
+      "type": "Noun",
+      "English": [
+        "narrative"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "nex",
+      "type": "Noun",
+      "English": [
+        "killing, murder"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "rēx",
+      "type": "Noun",
+      "English": [
+        "king"
+      ],
+      "sentences": [
+        "Quīntus: \"Nōnne rēx MīnōsThēseum cum Ariadnā fu­ gientem persecūtus est?\" Syra: \"Certē rēx eōs persequī coepit, sed nāvis Thēseī nimis celeris fuit.",
+        "Tum rēx īrātus cēpit Daedalum, quī fīlum cōnfecerat et Ariadnae dederat, eumque in labyrinthum inclūdī iussit unā cum eius īcarō filiō; vērum pater et filius mīrābilī modō ē labyrinthō fūgērunt."
+      ]
+    },
+    {
+      "Latin": "cōnspectus",
+      "type": "Noun",
+      "English": [
+        "sight, view"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "currus",
+      "type": "Noun",
+      "English": [
+        "chariot"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "exitus",
+      "type": "Noun",
+      "English": [
+        "exit, way out, end"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Trōia",
+      "type": "Noun",
+      "English": [
+        "Troy"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Rōmulus",
+      "type": "Noun",
+      "English": [
+        "Romulus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Remus",
+      "type": "Noun",
+      "English": [
+        "Remus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Thēseus",
+      "type": "Noun",
+      "English": [
+        "Theseus"
+      ],
+      "sentences": [
+        "Mīnōs, quamquam celeriter nāvigā­vit, nōn tam celer fuit quam Thēseus neque eum cōnse­ quī potuit."
+      ]
+    },
+    {
+      "Latin": "Achillēs",
+      "type": "Noun",
+      "English": [
+        "Achilles"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Hector",
+      "type": "Noun",
+      "English": [
+        "Hector"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Mīnōtaurus",
+      "type": "Noun",
+      "English": [
+        "Minotaur"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Daedalus",
+      "type": "Noun",
+      "English": [
+        "Daedalus"
+      ],
+      "sentences": [
+        "Ego parātus sum ad audiendum.\" Ad hoc Syra \"Ergō\" inquit, \"quoniam tam cupidus es audiendl, reliquam fabulam tibi nārrābō: \"Daedalus in labyrinthō inclūsus cum fīliōsuō intrā mūrōs errābat nec exitum invenlre poterat, etsī ipse labyrinthum aedificāverat.",
+        "Ō diī bonī, auxilium ferte nōbīs!\" \"Daedalus vērō \"Quid iuvat deōs invocāre\" inquit, \"dum hīc quiētus sedēs? Quī ipse sē iuvāre nōn vult, auxilium deōrum nōn meret.",
+        "Avēs nāturā volāre possunt, hominēs nōn item.\" Tum Daedalus \"Quid ego facere nōn possum?\" inquit, \"Pro­ fectō arte meā ipsa nātūra mūtārī potest.",
+        "Igne cēram molliam, cērā mollī pennās iungam et in lacertīs fīgam.\" \"Daedalus igitur arte mīrābilī sibi et fīliō suō ālās ingentēs cōnfecit ex pennīs, quās cērā iūnxit et in lacer­ tīsfīxit.",
+        "Ventō celerius trāns mare volābimus, nūlla avis nōs cōnsequī poterit.\" \"īcarus studiōsus volandl ālās hūc illūc mōvit, nec sē suprā humum levāre potuit.\"Ālae mē sustinēre nōn possunt\" inquit, \"Tu docē mē volāre!\" Statim Daedalus sē ālīs levāvit et \"Nisi ālās rēctē movēs\" inquit, \"volāre nōn potes.",
+        "Nōlī nimis audāx esse in volandō! Cautus estō, mīfīlī!Iam sequere mē! Carcerem nostrum effugimus — llberi sumus!\" \"Haec verba locūtus Daedalus cum filiō sūrsum ē labyrinthō ēvolāvit, neque quisquam fugam eōrum ani­ madvertit nisi aliquī pāstor, quī forte suspiciēns eōs tamquam magnās avēs volantēs vīdit ac deōs esse arbi­ trātus est.",
+        "īcarus dēspiciēns multitūdinem īnsulārum mlrātus est: \"Ō, quot parvae īnsulae in marī ingentī sunt!\" Daedalus vērō \"Illae īnsu­ lae\" inquit \"haud parvae sunt quamquam parvae esse videntur.",
+        "Quae est illa īnsula?\" Daedalus: \"Peloponnēsus est, Graeciae pars, nec vērō īnsula est, sed paenīnsula, nam Peloponnēsus terrā angustā, quae Isthmus vocā­tur, cum reliquā Graeciā coniungitur."
+      ]
+    },
+    {
+      "Latin": "Athēnae",
+      "type": "Noun",
+      "English": [
+        "Athens"
+      ],
+      "sentences": [
+        "Prope Isthmum sita est Corinthus, urbs pulcherrima, nec procul absunt Athēnae, patria nostra.\" \"Sī altius volābimus, nōn sō­ lum Graeciam, sed paene tōtum orbem terrārum spectā­ bimus\" inquit puer temerārius atque etiam altius sē le­ vāvit."
+      ]
+    },
+    {
+      "Latin": "Mīnōs",
+      "type": "Noun",
+      "English": [
+        "Minos"
+      ],
+      "sentences": [
+        "Quīntus: \"Nōnne rēx MīnōsThēseum cum Ariadnā fu­ gientem persecūtus est?\" Syra: \"Certē rēx eōs persequī coepit, sed nāvis Thēseī nimis celeris fuit.",
+        "Mīnōs, quamquam celeriter nāvigā­vit, nōn tam celer fuit quam Thēseus neque eum cōnse­ quī potuit.",
+        "Quīn avēs caelī imitāmur? Mīnōs, quīterrae marique imperat, dominus āeris nōn est: per āera hinc ēvolābimus! Hoc est cōnsi­ lium meum."
+      ]
+    },
+    {
+      "Latin": "Ariadna",
+      "type": "Noun",
+      "English": [
+        "Ariadne"
+      ],
+      "sentences": [
+        "Tum rēx īrātus cēpit Daedalum, quī fīlum cōnfecerat et Ariadnae dederat, eumque in labyrinthum inclūdī iussit unā cum eius īcarō filiō; vērum pater et filius mīrābilī modō ē labyrinthō fūgērunt.",
+        "Ipsī per nōs hinc effugere nōn possumus, neque quisquam nōs in fugiendō iuvāre poterit, ut Thēseum iūvit Ariadna."
+      ]
+    },
+    {
+      "Latin": "Aegeus",
+      "type": "Noun",
+      "English": [
+        "Aegeus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Sōl",
+      "type": "Noun",
+      "English": [
+        "Sol"
+      ],
+      "sentences": [
+        "Ex omnibus fabulīs haec dē cāsū īcari mē māximē dēlectat, etiam magis quam illa dē filiō Sōlis, quī currum patris regere cōnātus item dē summō caelō cecidit, quod ab orbe sōlis stultē aber­ rāverat."
+      ]
+    }
+  ],
+  "Chapter 26": [
+    {
+      "Latin": "vērum",
+      "type": "Noun",
+      "English": [
+        "truth",
+        "but"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "fuga",
+      "type": "Noun",
+      "English": [
+        "flight"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "nātūra",
+      "type": "Noun",
+      "English": [
+        "nature"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "paenīnsula",
+      "type": "Noun",
+      "English": [
+        "peninsula"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "penna",
+      "type": "Noun",
+      "English": [
+        "feather"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "cōnsilium",
+      "type": "Noun",
+      "English": [
+        "advice, decision, intention, plan"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "gerundium",
+      "type": "Noun",
+      "English": [
+        "gerund"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "lacertus",
+      "type": "Noun",
+      "English": [
+        "(upper) arm"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ars",
+      "type": "Noun",
+      "English": [
+        "art, skill"
+      ],
+      "sentences": [
+        "Ex par­ vīs sēminibus quae in agrōs sparsa sunt frūmentum crēscit.",
+        "Agricolae hoc videntēs clāmant: \"Prohibē ovēs tuās ab agrīs nos­ tris, pāstor!\" — tum pāstōrem mittunt atque celeriter ovēs in agrīs sparsās persequuntur."
+      ]
+    },
+    {
+      "Latin": "carcer",
+      "type": "Noun",
+      "English": [
+        "prison"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ignis",
+      "type": "Noun",
+      "English": [
+        "fire"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "lībertās",
+      "type": "Noun",
+      "English": [
+        "freedom, liberty"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "multitūdō",
+      "type": "Noun",
+      "English": [
+        "large number, multitude"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "opus",
+      "type": "Noun",
+      "English": [
+        "work"
+      ],
+      "sentences": [
+        "Iūlius aspicit agricolās quī in agris et in vīneīsopusfaciunt, gaudēns quod ipsl, ut dominō divitī, nōn necesse est in agris labōrare.",
+        "Cūra īnfantium multum temporis magnamque patientiam postulat, itaque parum temporis habeō ad opus rūsticum.\" Iūlius: \"Quid? Num uxor abs tē postulat ut tu prō mātre īnfantēs cūrēs? Itane īnfantēs suōs neglegit? Mā­ tris officium est īnfantēs cūrāre.",
+        "Nōbīs nūllum est ōtium, nec opus est nōs monēre ut industriī sīmus nēve quiēscāmus.\" Iūlius: \"Nōlī cēnsēre opus pāstōrum facilius esse."
+      ]
+    },
+    {
+      "Latin": "orbis",
+      "type": "Noun",
+      "English": [
+        "circle, orbit"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "cāsus",
+      "type": "Noun",
+      "English": [
+        "fall, case"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Īcarus",
+      "type": "Noun",
+      "English": [
+        "Icarus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Mēlos",
+      "type": "Noun",
+      "English": [
+        "Milos"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Peloponnēsus",
+      "type": "Noun",
+      "English": [
+        "Peloponnese"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Isthmus",
+      "type": "Noun",
+      "English": [
+        "Corinth"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Corinthus",
+      "type": "Noun",
+      "English": [
+        "Corinth"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 27": [
+    {
+      "Latin": "agricola",
+      "type": "Noun",
+      "English": [
+        "farmer, peasant"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "cōpia",
+      "type": "Noun",
+      "English": [
+        "abundance, lot"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "cūra",
+      "type": "Noun",
+      "English": [
+        "care, anxiety"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "lāna",
+      "type": "Noun",
+      "English": [
+        "wool"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "patientia",
+      "type": "Noun",
+      "English": [
+        "forbearance, patience"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ūva",
+      "type": "Noun",
+      "English": [
+        "grape"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "vīnea",
+      "type": "Noun",
+      "English": [
+        "vinyard"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ager",
+      "type": "Noun",
+      "English": [
+        "field, territory, region"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "arātrum",
+      "type": "Noun",
+      "English": [
+        "plough"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "colōnus",
+      "type": "Noun",
+      "English": [
+        "(tenant-)farmer"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "coniūnctīvus",
+      "type": "Noun",
+      "English": [
+        "subjunctive"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "frūmentum",
+      "type": "Noun",
+      "English": [
+        "corn, grain"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "īnstrūmentum",
+      "type": "Noun",
+      "English": [
+        "tool, instrument"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "negōtium",
+      "type": "Noun",
+      "English": [
+        "activity, business"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ōtium",
+      "type": "Noun",
+      "English": [
+        "leisure"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pābulum",
+      "type": "Noun",
+      "English": [
+        "fodder"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "praedium",
+      "type": "Noun",
+      "English": [
+        "estate"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "vīnum",
+      "type": "Noun",
+      "English": [
+        "wine"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "calor",
+      "type": "Noun",
+      "English": [
+        "warmth, heat"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "falx",
+      "type": "Noun",
+      "English": [
+        "sickle"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "frīgus",
+      "type": "Noun",
+      "English": [
+        "cold"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "frūgēs",
+      "type": "Noun",
+      "English": [
+        "fruit, crops"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "grex",
+      "type": "Noun",
+      "English": [
+        "flock, herd, band"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "labor",
+      "type": "Noun",
+      "English": [
+        "work, toil"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pecus",
+      "type": "Noun",
+      "English": [
+        "sheep, livestock"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "precēs",
+      "type": "Noun",
+      "English": [
+        "prayers"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "regiō",
+      "type": "Noun",
+      "English": [
+        "region, district"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "rūs",
+      "type": "Noun",
+      "English": [
+        "the country"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "sēmen",
+      "type": "Noun",
+      "English": [
+        "seed"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "vītis",
+      "type": "Noun",
+      "English": [
+        "vine"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "arātor",
+      "type": "Noun",
+      "English": [
+        "ploughman"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "loca",
+      "type": "Noun",
+      "English": [
+        "regions, parts"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Sāturnus",
+      "type": "Noun",
+      "English": [
+        "Saturn"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Latium",
+      "type": "Noun",
+      "English": [
+        "Latium"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Campānia",
+      "type": "Noun",
+      "English": [
+        "Campania"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 28": [
+    {
+      "Latin": "fāma",
+      "type": "Noun",
+      "English": [
+        "report, fame"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "nāvicula",
+      "type": "Noun",
+      "English": [
+        "boat"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "turba",
+      "type": "Noun",
+      "English": [
+        "crowd, throng"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "vigilia",
+      "type": "Noun",
+      "English": [
+        "watch"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "animus",
+      "type": "Noun",
+      "English": [
+        "mind, soul"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "dictum",
+      "type": "Noun",
+      "English": [
+        "saying, Latins"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "fretum",
+      "type": "Noun",
+      "English": [
+        "strait"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "libellus",
+      "type": "Noun",
+      "English": [
+        "little book"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pecūlium",
+      "type": "Noun",
+      "English": [
+        "money given to slaves"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "perīculum",
+      "type": "Noun",
+      "English": [
+        "danger, peril"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "phantasma",
+      "type": "Noun",
+      "English": [
+        "ghost, apparition"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "potestās",
+      "type": "Noun",
+      "English": [
+        "power"
+      ],
+      "sentences": [
+        "Nihil malī umquam el acciderat ac tanta erat potestās eius, tanta glōria tantaeque dīvitiae, ut nōn sōlum aliī tyrannī, sed etiam dī immortālēs el invidērent."
+      ]
+    },
+    {
+      "Latin": "praedō",
+      "type": "Noun",
+      "English": [
+        "robber, pirate"
+      ],
+      "sentences": [
+        "Certē nāvis praedōnum est.",
+        "Gubernātor perterritus exclāmat: \"Ō dl bonī! Quid faciāmus? Brevī praedōnēs hīc erunt.\" Tum mercātor, cum gubernātōrem pallidum videat, \"Bonō animō es!\" inquit, \"Nōlī dēspērāre! Spēs est, dum anima est.\" CAR XXIX"
+      ]
+    },
+    {
+      "Latin": "prīnceps",
+      "type": "Noun",
+      "English": [
+        "chief, leader"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "tībīcen",
+      "type": "Noun",
+      "English": [
+        "flute-player"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "tranquillitās",
+      "type": "Noun",
+      "English": [
+        "calmness"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "vorāgō",
+      "type": "Noun",
+      "English": [
+        "abyss, whirlpool"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "tībiae",
+      "type": "Noun",
+      "English": [
+        "flute"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Siculus",
+      "type": "Noun",
+      "English": [
+        "Sicily"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Bethlehem",
+      "type": "Noun",
+      "English": [
+        "Bethlehem"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Iūdaea",
+      "type": "Noun",
+      "English": [
+        "Judea"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Marīa",
+      "type": "Noun",
+      "English": [
+        "Maria"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Matthaeus",
+      "type": "Noun",
+      "English": [
+        "Matthew"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Iūdaeus",
+      "type": "Noun",
+      "English": [
+        "jew"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Iaīrus",
+      "type": "Noun",
+      "English": [
+        "Iarius"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Plūtō",
+      "type": "Noun",
+      "English": [
+        "Pluto"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Petrus",
+      "type": "Noun",
+      "English": [
+        "Peter"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Scylla",
+      "type": "Noun",
+      "English": [
+        "Scylla"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Charybdis",
+      "type": "Noun",
+      "English": [
+        "Charybdis"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 29": [
+    {
+      "Latin": "dīvitiae",
+      "type": "Noun",
+      "English": [
+        "riches"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "fortūna",
+      "type": "Noun",
+      "English": [
+        "fortune"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "iactūra",
+      "type": "Noun",
+      "English": [
+        "throwing away, loss"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "invidia",
+      "type": "Noun",
+      "English": [
+        "envy"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "laetitia",
+      "type": "Noun",
+      "English": [
+        "joy"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "trīstitia",
+      "type": "Noun",
+      "English": [
+        "sadness"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "vīta",
+      "type": "Noun",
+      "English": [
+        "life"
+      ],
+      "sentences": [
+        "Sīnecesse est in agrīs labōrāre, vīta rūstica nōn iūcunda, sed molesta est.",
+        "Vinum vīta est.\" Cornēlius: \"Nōn vīvimus, ut bibāmus, sed bibimus, ut vīvāmus.\" Hīc Aemilia \"Necesse estw inquit \"paulisper famem et sitim ferre, dum cibus coquitur et triclīnium ex­ ōrnātur.\" (Servus cuius negōtium est cibum coquere atque cē­ nam parāre in culīnā, cocus appellātur."
+      ]
+    },
+    {
+      "Latin": "beneficium",
+      "type": "Noun",
+      "English": [
+        "benefit, favour"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "delphīnus",
+      "type": "Noun",
+      "English": [
+        "dolphin"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "dorsum",
+      "type": "Noun",
+      "English": [
+        "back"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "fundus",
+      "type": "Noun",
+      "English": [
+        "bottom"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "fūrtum",
+      "type": "Noun",
+      "English": [
+        "theft"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "lucrum",
+      "type": "Noun",
+      "English": [
+        "profit, gain"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "maleficium",
+      "type": "Noun",
+      "English": [
+        "evil deed, crime"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "rēmus",
+      "type": "Noun",
+      "English": [
+        "oar"
+      ],
+      "sentences": [
+        "Brevī cēna parāta et triclīnium ōrnā­ tum erit.\" Tandem puer 'cēnam parātam esse' nūntiat.\"Triclī­ nium intrēmus!\" inquit Iūlius, atque convlvae laetītri­ clīnium flōribus exōrnātum et veste pulcherrimā strā­ tum intrant."
+      ]
+    },
+    {
+      "Latin": "tyrannus",
+      "type": "Noun",
+      "English": [
+        "tyrant"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "carmen",
+      "type": "Noun",
+      "English": [
+        "song, poem"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "fēlīcitās",
+      "type": "Noun",
+      "English": [
+        "good fortune, luck"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "fidēs",
+      "type": "Noun",
+      "English": [
+        "lyre",
+        "trust, loyalty"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "fidicen",
+      "type": "Noun",
+      "English": [
+        "lyre-player"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "fūr",
+      "type": "Noun",
+      "English": [
+        "thief"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "nāvigātiō",
+      "type": "Noun",
+      "English": [
+        "sailing, voyage"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "piscātor",
+      "type": "Noun",
+      "English": [
+        "fisherman"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "salūs",
+      "type": "Noun",
+      "English": [
+        "safety, well-being"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "cantus",
+      "type": "Noun",
+      "English": [
+        "singing, music"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "spēs",
+      "type": "Noun",
+      "English": [
+        "hope"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Arīōn",
+      "type": "Noun",
+      "English": [
+        "Arion"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Orpheus",
+      "type": "Noun",
+      "English": [
+        "Orpheus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Periander",
+      "type": "Noun",
+      "English": [
+        "Periander"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Polycratēs",
+      "type": "Noun",
+      "English": [
+        "Polycrates"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 30": [
+    {
+      "Latin": "cēna",
+      "type": "Noun",
+      "English": [
+        "dinner"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "convīva",
+      "type": "Noun",
+      "English": [
+        "guest"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "culīna",
+      "type": "Noun",
+      "English": [
+        "kitchen"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "argentum",
+      "type": "Noun",
+      "English": [
+        "silver"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "balneum",
+      "type": "Noun",
+      "English": [
+        "bath, bathroom"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "bonum",
+      "type": "Noun",
+      "English": [
+        "good, blessing, boon"
+      ],
+      "sentences": [
+        "Valeat quisquis vīnum bonum amat! Vīvat Bacchus, deus vlnī! Vīvāmus om­ nēs et bibāmus! Pōcula funditus exhauriāmus!\" Paula: \"Iam tacē! Satis est."
+      ]
+    },
+    {
+      "Latin": "cocus",
+      "type": "Noun",
+      "English": [
+        "cook"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "convīvium",
+      "type": "Noun",
+      "English": [
+        "dinner-party"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "merum",
+      "type": "Noun",
+      "English": [
+        "neat wine"
+      ],
+      "sentences": [
+        "Quisquis feminās amat, pōculum tollat et bibat mēcum! Nunc merum bibendum est!\" CAR XXXI Cornēlius: \"Tacendum est, nōn bibendum! Iam ni­ mium bibistī."
+      ]
+    },
+    {
+      "Latin": "minister",
+      "type": "Noun",
+      "English": [
+        "servant"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "triclīnium",
+      "type": "Noun",
+      "English": [
+        "dining-room"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "carō",
+      "type": "Noun",
+      "English": [
+        "flesh, meat"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "famēs",
+      "type": "Noun",
+      "English": [
+        "hunger, famine"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "genus",
+      "type": "Noun",
+      "English": [
+        "kind, sort"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "holus",
+      "type": "Noun",
+      "English": [
+        "vegetable"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "hospes",
+      "type": "Noun",
+      "English": [
+        "guest, guest-friend"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "iter",
+      "type": "Noun",
+      "English": [
+        "journey, march, way"
+      ],
+      "sentences": [
+        "Redeāmus ad meum Mēdum servum, quīherī au­ fūgit aliquantum pecūniae sēcum auferēns.\" Cornēlius: \"Quantum pecūniae abstulit?\" Iūlius: \"Centum circiter sēstertiōs.",
+        "Abstinē manum ā mē!\" Orontēs iterum pōculum tollēns haec cantat: \"Quisquis amat valeat! Pereat quī nescit amāre! Bis tantō pereat quisquis amāre vetat!\" Aemilia: \"Nōlumus istās nūgās audīre."
+      ]
+    },
+    {
+      "Latin": "mel",
+      "type": "Noun",
+      "English": [
+        "honey"
+      ],
+      "sentences": [
+        "Clēmēns estō, mī Iūlī! Centum sēstertiīhaud magna pecūnia est, ut ait Orontēs, nec aliud quidquam surripuit Mēdus.\" Iūlius: \"An cēnsēs eum praemium meruisse quod manūs abstinuit ā gemmīs tuīs? Nimis clēmentēs sunt mulierēs: quam facile viris nēquissimīs ignōscunt! At nostra melior est memoria!\" Aemilia: \"Nōvistīne hoc dictum: ^Dominō sevērō tot esse hostēs quot servōs'? Servīenim dominum clēmen­ tem amant, sevērum ōdērunt.\" Iūlius: \"Servīmē metuunt quidem, nec vērō ōdērunt."
+      ]
+    },
+    {
+      "Latin": "nux",
+      "type": "Noun",
+      "English": [
+        "nut"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "sāl",
+      "type": "Noun",
+      "English": [
+        "salt, wit"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "sitis",
+      "type": "Noun",
+      "English": [
+        "thirst"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "vās",
+      "type": "Noun",
+      "English": [
+        "vessel, bowl"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "lībertīnus",
+      "type": "Noun",
+      "English": [
+        "freedman"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Orontēs",
+      "type": "Noun",
+      "English": [
+        "Orontes"
+      ],
+      "sentences": [
+        "Quam ob rem nec ipse praesēns nec absēns per litterās quidquam cognōvī dē eō quod nuper Rōmae factum est.\" Aemilia: \"Nēmō tibi quidquam scribet dē rēbus ur­ bānīs, nisi prius ipse epistulam scripseris.\" Orontēs: \"Opus nōn est epistulās exspectāre, nam facile aliquid novī per nūntiōs cognōscere potes.",
+        "Semper nōmina oblīvīs­ cor, nam mala memoria mihi est.\" Orontēs: \"Midās est nōmen rēgis, dē quō haec fabula nārrātur: In quādam urbe Asiae ōlim vīvēbat rēx quī­ dam avārus, nōmine Midās, quī nihil magis optābat quam dīvitiās.\" Iūlius, quī fabulam audīre nōn vult, Orontem inter­ pellat: \"Nōn Midās\" inquit, \"sed Mēdus est nōmen cuiusdam servī meī, quī herī.\" Orontēs vērō, minimē turbātus, nārrāre pergit: uTum Bacchus deus, quī ob quoddam beneficium rēgī bene volēbat, uDabō tibi\" inquit \"quidquid optāveris.\" Statim Midās \"Ergō dā mihi\" inquit \"potestātem quidquid tetigerō in aurum mQtandī.",
+        "Hoc sōlum mihi optō.\" Bacchus, etsī rēgem avārum mūnus pessimum optā­ visse cēnsēbat, tamen prōmissum solvit.\" IQlius impatiēns \"Tacē, Orontēs!\" inquit, \"Omnēs illam fabulam nōvimus.\" At Aemilia, quae fabulam ignōrat, ab Oronte quaerit 'quamobrem id mūnus pessimum sit?' Cui Orontēs \"Stultē id quaeris\" inquit, \"Midās enim, quamquam terram, lignum, ferrum manū tangendō in aurum mūtāre poterat, fame et sitī moriēbātur, cum cibus quoque et pōtiō, simul atque ā rēge tācta erat, aurum fieret.",
+        "Bacchus igitur el suāsit ut in quōdam flūmine lavārētur; cuius flūminis aqua, simul atque corpore rēgis tācta est, colōrem aureum accēpit.\" Iūlius: \"Hicine finis fabulae est?\" Orontēs: \"Huius quidem fabulae fīnis est, sed aliam fabulam dē eōdem rēge nōvī.",
+        "Iuvenis est Mēdus: quid nōn faciunt iuvenēs amōris causā? Crēdō eum apud puellam Rōmānam la­ tēre.\" Orontēs: \"Ergō numquam reperiētur, nam vērum est quod scripsit Ovidius in librō quīvocātur 'Ars amandf: Quot caelum stēllās, tot habet tua Rōma pnellās.\" Iūlius: \"Profectō magnum praemium dabō eīquī ser­ vum meum fugitlvum hūc retrāxerit.\" Cornēlius: \"Quantum pecūniae dabis? Certum prae­ mium statuere oportet.",
+        "M Iūlius: \"Tantum quantum ille surripuit.\" Orontēs: \"Centum tantum sēstertiōs? Sānē nōn ni­ mium praemium prōmittis!w Aemilia autem marītō suō suādet ut clēmēns sit: \"Nōlī Mēdum cruciāre, sīeum invēneris.",
+        "Clēmēns estō, mī Iūlī! Centum sēstertiīhaud magna pecūnia est, ut ait Orontēs, nec aliud quidquam surripuit Mēdus.\" Iūlius: \"An cēnsēs eum praemium meruisse quod manūs abstinuit ā gemmīs tuīs? Nimis clēmentēs sunt mulierēs: quam facile viris nēquissimīs ignōscunt! At nostra melior est memoria!\" Aemilia: \"Nōvistīne hoc dictum: ^Dominō sevērō tot esse hostēs quot servōs'? Servīenim dominum clēmen­ tem amant, sevērum ōdērunt.\" Iūlius: \"Servīmē metuunt quidem, nec vērō ōdērunt.",
+        "Eius rel exemplum memorātur Titus Mān­ lius Torquātus, quī fīlium suum cōram exercitū necārī iussit quia contrā imperium patris cum hoste pugnāve­ CAR XXXI rat! Sanē pater crudēlis fuit Mānlius, sed illō suppliciō sevērissimō cēteri mllitēs dēterrēbantur nē officium dēsererent.\" Aemilia: \"Nōtum est veterēs Rōmānōs etiam ergā līberōs suōs crūdēlēs fuisse, nec vērō quisquam hodiē exemplum sūmit ab illō patre crūdēlissimō.\" Orontēs: \"At etiam nunc patrī licet īnfantem suum invalidum in montibus expōnere.\" Aemilia: \"Pater quī īnfantem exposuit ipse necandus est! Nōnne tālis pater tibi vidētur cruce dignus esse?\" Iūlius: \"Certē pater tam inhūmānus sevērē pūnien­ dus est, namque īnfantēs invalidōs expōnere est mōs antīquus atque crūdēlis.",
+        "Vērum hominem līberum crucī fīgere nōn est mōs Rōmānō­ rum; id supplicium in servōs statūtum est.\" Aemilia: \"Ergō quī Infantem suum dēbilem ad ferās expōnī iussit, ipse ad bēstiās mittendus est cum aliīs hominibus scelestīs!\" Orontēs: \".",
+        "Aliī in silvīs ab ipsīs ferīs aluntur, aliī inveniuntur ā pāstōri­ bus, quī eōs cum līberīs suīs ēducant.\" Orontēs: \"Sīcut Paris, rēgis Priamī fflius dēbilis, quī ā servō rēgis fīdō in quōdam monte prope urbem Trōiam expositus.\" At Cornēlius \"Opus nōn est\" inquit \"vetus exemplum Graecum afferre, cum complures fabulae nārrentur dē Rōmānīs puerīs quī ita servātī sunt.",
+        "Cēterum fabulam male intellēxistī, nec enim dēbilis fuit Paris nec fīdus servus Priamī, nam rēx eīimperāverat ut Paridem inter­ ficeret, et quidquid dominus imperāvit, servō facien­ dum est.\" Orontēs: \"Ille servus nōn puniendus, sed potius laudandus fuit: namque ita Paridem servāvit — eum quī posteā Helenam, feminam omnium pulcherrimam, ā marītō Menelāō abdūxit.\" Paula: \"Num tantam iniūriam laudandam esse cēnsēs?\" Orontēs: \"Quod Venus suādet iniūria nōn est! Sānē laudandus est ille iuvenis qul nōn modo feminam illam pulcherrimam abdūcere ausus est, sed etiam mīlesfor­ tissimus fuit quī et multōs aliōs hostēs et ipsum Achil­ lem occīdit.\" Hīc pōculum tollit Orontēs et exclāmat: \"Vīvat fortissimus quisque! Vīvant omnēs feminae amandae! Gaudeāmus atque amēmus! Iuvenēs sumus ut Paris, nōn senēs ut Priamus, rēx Trōiānōrum, aut Nestor, dux Graecōrum senex, quī ad nōnāgēsimum annum vīxit.",
+        "Cēnseō tē unum tantum vīnī bibisse quantum nōs omnēs, vel potius alterum tantum!\" Orontēs: \"Vōs igitur parum bibistis.",
+        "Nōnne tē pudet ita ab ōvō ūsque ad māla fabulārī? Sānē pudendum est!\" Orontēs autem, simul atque pōculum suum funditus exhausit, ā Paulā ad Aemiliam versus \"Omnēs m-mē interpellant\" inquit, \"praeter t-tē Aemilia.",
+        "Abstinē manum ā mē!\" Orontēs iterum pōculum tollēns haec cantat: \"Quisquis amat valeat! Pereat quī nescit amāre! Bis tantō pereat quisquis amāre vetat!\" Aemilia: \"Nōlumus istās nūgās audīre.",
+        "Ēbrius es!\" Orontēs negat 'sē esse ēbrium' atque in lectō surgēns aliud carmen super feminā falsā et īnfīdācantāre incipit, sed priusquam fīnem facit, sub mēnsam lābitur! Duo servī eum ē triclīniō auferunt atque in cubiculō pōnunt."
+      ]
+    },
+    {
+      "Latin": "Fabia",
+      "type": "Noun",
+      "English": [
+        "Fabia"
+      ],
+      "sentences": [
+        "In convīviīssuīs sanguinem hūmānum bibere solent, ut rūmor est.\" Aemilia: \"Nōn omnēs vērīsunt rūmōrēs qul afferun­ tur super Christiānīs.\" Fabia: \"Nec omnēs īnfantēs expositī pereunt."
+      ]
+    },
+    {
+      "Latin": "Paula",
+      "type": "Noun",
+      "English": [
+        "Paula"
+      ],
+      "sentences": [
+        "Cēterum fabulam male intellēxistī, nec enim dēbilis fuit Paris nec fīdus servus Priamī, nam rēx eīimperāverat ut Paridem inter­ ficeret, et quidquid dominus imperāvit, servō facien­ dum est.\" Orontēs: \"Ille servus nōn puniendus, sed potius laudandus fuit: namque ita Paridem servāvit — eum quī posteā Helenam, feminam omnium pulcherrimam, ā marītō Menelāō abdūxit.\" Paula: \"Num tantam iniūriam laudandam esse cēnsēs?\" Orontēs: \"Quod Venus suādet iniūria nōn est! Sānē laudandus est ille iuvenis qul nōn modo feminam illam pulcherrimam abdūcere ausus est, sed etiam mīlesfor­ tissimus fuit quī et multōs aliōs hostēs et ipsum Achil­ lem occīdit.\" Hīc pōculum tollit Orontēs et exclāmat: \"Vīvat fortissimus quisque! Vīvant omnēs feminae amandae! Gaudeāmus atque amēmus! Iuvenēs sumus ut Paris, nōn senēs ut Priamus, rēx Trōiānōrum, aut Nestor, dux Graecōrum senex, quī ad nōnāgēsimum annum vīxit.",
+        "Valeat quisquis vīnum bonum amat! Vīvat Bacchus, deus vlnī! Vīvāmus om­ nēs et bibāmus! Pōcula funditus exhauriāmus!\" Paula: \"Iam tacē! Satis est."
+      ]
+    }
+  ],
+  "Chapter 31": [
+    {
+      "Latin": "fidēs",
+      "type": "Noun",
+      "English": [
+        "lyre",
+        "trust, loyalty"
+      ],
+      "sentences": [
+        "Nam etsī rāra est vēra amlcitia ac fidēs, nōn omnēs amīcīsunt falsī seu īnfīdī."
+      ]
+    },
+    {
+      "Latin": "iniūria",
+      "type": "Noun",
+      "English": [
+        "injustice, wrong"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "memoria",
+      "type": "Noun",
+      "English": [
+        "memory"
+      ],
+      "sentences": [
+        "Tune nōmen eius meministī?\" Mercātor: \"Illōs versūs scripsit Ovidius, poēta ēgre­ gius, nisi memoria mē fallit."
+      ]
+    },
+    {
+      "Latin": "nūgae",
+      "type": "Noun",
+      "English": [
+        "idle talk, rubbish"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "parricīda",
+      "type": "Noun",
+      "English": [
+        "parricide"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "poena",
+      "type": "Noun",
+      "English": [
+        "punishment, penalty"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "praemium",
+      "type": "Noun",
+      "English": [
+        "reward, prize"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "supplicium",
+      "type": "Noun",
+      "English": [
+        "(capital) punishment"
+      ],
+      "sentences": [
+        "At Caesar, vir super­ bus, cum id parum esse cēnsēret, quīnquāgintā talenta pīrātīs obtulit, simul vērō supplicium iīs minātus est! Tum praedōnibus quasi servīs suīs imperāvit ut tacē­ rent neu somnum suum turbārent — ita Caesar praedō­ nēs contemnēbat, cum in eōrum potestāte esset."
+      ]
+    },
+    {
+      "Latin": "crux",
+      "type": "Noun",
+      "English": [
+        "cross"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "iūs",
+      "type": "Noun",
+      "English": [
+        "right, justice"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "iuvenis",
+      "type": "Noun",
+      "English": [
+        "young adult"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "lēx",
+      "type": "Noun",
+      "English": [
+        "law"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "mōs",
+      "type": "Noun",
+      "English": [
+        "custom, usage"
+      ],
+      "sentences": [
+        "Postrēmō, cum iam tam cārum esset frūmentum ac pānis ut multī pauperēs inopiā cibl necessāril perīrent, populus Rōmā­ nus ūnō ōre postulāvit ut ūniversa classis Rōmāna ad­ versus hostēs illōs audācissimōs mitterētur.",
+        "Amīcīnostrī in mari Tuscō nāvigantēs tālēs praedō­ nēs audācissimōs nāvem suam persequī arbitrantur.",
+        "Rēmōs tollite, nautae!\" Nautae statim rēmigāre dēsistunt ac rēmīs sublātīs nāvēs longās salūtant."
+      ]
+    },
+    {
+      "Latin": "mūnus",
+      "type": "Noun",
+      "English": [
+        "gift"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pōtiō",
+      "type": "Noun",
+      "English": [
+        "drinking, drink"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "rūmor",
+      "type": "Noun",
+      "English": [
+        "rumour"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "scelus",
+      "type": "Noun",
+      "English": [
+        "crime"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "senex",
+      "type": "Noun",
+      "English": [
+        "old man"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "quantum",
+      "type": "Noun",
+      "English": [
+        "how much, (as much) as"
+      ],
+      "sentences": [
+        "Scīsne quantum plrātae ā Iūliō Caesare captō postulāverint? Vīgintī talenta postulāvērunt, id est prope quīngenta mīlia sēstertium."
+      ]
+    },
+    {
+      "Latin": "gerundīvum",
+      "type": "Noun",
+      "English": [
+        "gerundive"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "īnscrīptiō",
+      "type": "Noun",
+      "English": [
+        "inscription"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Midās",
+      "type": "Noun",
+      "English": [
+        "Midas"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Bacchus",
+      "type": "Noun",
+      "English": [
+        "Bacchus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Apollō",
+      "type": "Noun",
+      "English": [
+        "Apollo"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Ovidius",
+      "type": "Noun",
+      "English": [
+        "Ovid"
+      ],
+      "sentences": [
+        "Tune nōmen eius meministī?\" Mercātor: \"Illōs versūs scripsit Ovidius, poēta ēgre­ gius, nisi memoria mē fallit.",
+        "Quī ipse, cum fortūnā ad­ versā premerētur, ab amlcīs suīs dēsertus erat.\" Gubernātor: \"Nōn vērum est quod dīxit Ovidius."
+      ]
+    },
+    {
+      "Latin": "Mānlius",
+      "type": "Noun",
+      "English": [
+        "Manlius"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Torquātus",
+      "type": "Noun",
+      "English": [
+        "Torquatus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Chrīstiānus",
+      "type": "Noun",
+      "English": [
+        "Christian"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Paris",
+      "type": "Noun",
+      "English": [
+        "Paris"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Priamus",
+      "type": "Noun",
+      "English": [
+        "Priam"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Helena",
+      "type": "Noun",
+      "English": [
+        "Helena"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Menelāus",
+      "type": "Noun",
+      "English": [
+        "Menelaus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Nestor",
+      "type": "Noun",
+      "English": [
+        "Nestor"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Sōlō",
+      "type": "Noun",
+      "English": [
+        "Solon"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 32": [
+    {
+      "Latin": "amīcitia",
+      "type": "Noun",
+      "English": [
+        "friendship"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "audācia",
+      "type": "Noun",
+      "English": [
+        "boldness, audacity"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "grātia",
+      "type": "Noun",
+      "English": [
+        "favour, gratitude"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "incola",
+      "type": "Noun",
+      "English": [
+        "inhabitant"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "inopia",
+      "type": "Noun",
+      "English": [
+        "lack, scarcity"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pīrāta",
+      "type": "Noun",
+      "English": [
+        "pirate"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "poēta",
+      "type": "Noun",
+      "English": [
+        "poet"
+      ],
+      "sentences": [
+        "Mīrābar cūr ille poēta mortem glōriōsam prō patriā 'dīram' vocāret et ēnsēs quibus patria dēfenditur 'horrendōs', ut in hls versibus, quōs senex magister etiam atque etiam nōbīs recitābat: Quis fuit horrendōs primus quīprōtulit ēnsēs? Quamīerus et vērēferreus illefuit! Tum caedēs hominum generi> tum proelia nāta, tum brevior dxrae mortis aperta via est!"
+      ]
+    },
+    {
+      "Latin": "victōria",
+      "type": "Noun",
+      "English": [
+        "victory"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "amphitheātrum",
+      "type": "Noun",
+      "English": [
+        "amphitheatre"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "populus",
+      "type": "Noun",
+      "English": [
+        "people, nation"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "talentum",
+      "type": "Noun",
+      "English": [
+        "talent (unit)"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "classis",
+      "type": "Noun",
+      "English": [
+        "fleet"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "condiciō",
+      "type": "Noun",
+      "English": [
+        "condition"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "gēns",
+      "type": "Noun",
+      "English": [
+        "nation, people"
+      ],
+      "sentences": [
+        "Haud difficile est mē excūsāre, quod neglegēns fuerim in scribendō.",
+        "Sīmihi tantum esset ōtiī quantum est tibi, in epistulīs scrīben­ dīs nōn minus dīligēns essem quam tū."
+      ]
+    },
+    {
+      "Latin": "servitūs",
+      "type": "Noun",
+      "English": [
+        "slavery"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "victor",
+      "type": "Noun",
+      "English": [
+        "conqueror"
+      ],
+      "sentences": [
+        "Hōc proeliō factō, dux victor, cum ā mīlitibus impe­ rātor salūtātus esset, virtūtem nostram laudāvit 'quod contrā hostēs numerō superiōrēs fortissimē pugnāvissē­ mus'; (tot hominibus ūnō proeliō āmissls, hostēs brevī arma positūrōs esse' dīxit."
+      ]
+    },
+    {
+      "Latin": "vīrēs",
+      "type": "Noun",
+      "English": [
+        "strength"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "vīs",
+      "type": "Noun",
+      "English": [
+        "force, power"
+      ],
+      "sentences": [
+        "Magnus numerus eōrum aut caesus aut captus est ā nostrīs, reliquī ultrā flumen in magnīs silvīslatent.",
+        "Ego quoque dubitāre coeperam num nūntius vērum dīxisset, cum subitō paulō ante lūcem magnus numerus Germānōrum ē silvīsproximls excurrēns castra nostra oppugnāvit."
+      ]
+    },
+    {
+      "Latin": "voluntās",
+      "type": "Noun",
+      "English": [
+        "will"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "cursus",
+      "type": "Noun",
+      "English": [
+        "race, course, journey"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Gnaeus",
+      "type": "Noun",
+      "English": [
+        "Gnaeus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Pompēius",
+      "type": "Noun",
+      "English": [
+        "Pompeius"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Aegyptiī",
+      "type": "Noun",
+      "English": [
+        "Egypt"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Ennius",
+      "type": "Noun",
+      "English": [
+        "Ennius"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 33": [
+    {
+      "Latin": "rīpa",
+      "type": "Noun",
+      "English": [
+        "bank"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "gaudium",
+      "type": "Noun",
+      "English": [
+        "joy, delight"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "lēgātus",
+      "type": "Noun",
+      "English": [
+        "envoy, delegate"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "proelium",
+      "type": "Noun",
+      "English": [
+        "battle"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "stipendium",
+      "type": "Noun",
+      "English": [
+        "soldier's pay, service"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "studium",
+      "type": "Noun",
+      "English": [
+        "interest, study"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "aetās",
+      "type": "Noun",
+      "English": [
+        "age"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "agmen",
+      "type": "Noun",
+      "English": [
+        "army on the march"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "amnis",
+      "type": "Noun",
+      "English": [
+        "river"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "caedēs",
+      "type": "Noun",
+      "English": [
+        "killing, slaughter"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "cohors",
+      "type": "Noun",
+      "English": [
+        "cohort"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ēnsis",
+      "type": "Noun",
+      "English": [
+        "sLatin"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "imperātor",
+      "type": "Noun",
+      "English": [
+        "(commanding) general"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "legiō",
+      "type": "Noun",
+      "English": [
+        "legion"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ōrdō",
+      "type": "Noun",
+      "English": [
+        "row, rank, order"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pāx",
+      "type": "Noun",
+      "English": [
+        "peace"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ratis",
+      "type": "Noun",
+      "English": [
+        "raft"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "valētūdō",
+      "type": "Noun",
+      "English": [
+        "health"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "virtūs",
+      "type": "Noun",
+      "English": [
+        "valour, courage"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "vulnus",
+      "type": "Noun",
+      "English": [
+        "wound"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "aciēs",
+      "type": "Noun",
+      "English": [
+        "line of battle"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Valerius",
+      "type": "Noun",
+      "English": [
+        "Valerius"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Alpēs",
+      "type": "Noun",
+      "English": [
+        "Alps"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Tibullus",
+      "type": "Noun",
+      "English": [
+        "Tibullus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Amphitryōn",
+      "type": "Noun",
+      "English": [
+        "Amphitryon"
+      ],
+      "sentences": [
+        "Nūper spectāvī cōmoediam Plautī dē Amphitryōne, duce Graecōrum, cuius uxor Alcmēna ab ipsō Iove amābātur."
+      ]
+    },
+    {
+      "Latin": "Alcmēna",
+      "type": "Noun",
+      "English": [
+        "Alcmena"
+      ],
+      "sentences": [
+        "Nūper spectāvī cōmoediam Plautī dē Amphitryōne, duce Graecōrum, cuius uxor Alcmēna ab ipsō Iove amābātur.",
+        "Dum dux ille ācer et fortis pro­ cul ā domō bellum gerit, Iuppiter sē in fōrmam eius mūtāvit, ut Alcmēnam vīseret; quae, cum putāret con­ iugem suum esse, eum in cubiculum recēpit.\" Cornēlius: \"."
+      ]
+    },
+    {
+      "Latin": "Herculēs",
+      "type": "Noun",
+      "English": [
+        "Hercules"
+      ],
+      "sentences": [
+        "et decimō post mēnse fīliōs geminōs peperit, quōrum alter fuit Herculēs."
+      ]
+    }
+  ],
+  "Chapter 34": [
+    {
+      "Latin": "arānea",
+      "type": "Noun",
+      "English": [
+        "spider, cobweb"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "aurīga",
+      "type": "Noun",
+      "English": [
+        "charioteer, driver"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "cōmoedia",
+      "type": "Noun",
+      "English": [
+        "comedy"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "dēliciae",
+      "type": "Noun",
+      "English": [
+        "delight, pet"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "lucerna",
+      "type": "Noun",
+      "English": [
+        "lamp"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "nota",
+      "type": "Noun",
+      "English": [
+        "mark, sign"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "opera",
+      "type": "Noun",
+      "English": [
+        "effort, pains"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "palma",
+      "type": "Noun",
+      "English": [
+        "palm"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "tenebrae",
+      "type": "Noun",
+      "English": [
+        "darkness"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "bāsium",
+      "type": "Noun",
+      "English": [
+        "kiss"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "cachinnus",
+      "type": "Noun",
+      "English": [
+        "laugh, guffaw"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "circus",
+      "type": "Noun",
+      "English": [
+        "circus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "fātum",
+      "type": "Noun",
+      "English": [
+        "fate, destiny, death"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "gremium",
+      "type": "Noun",
+      "English": [
+        "lap"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ingenium",
+      "type": "Noun",
+      "English": [
+        "nature, character"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ocellus",
+      "type": "Noun",
+      "English": [
+        "(little) eye"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "odium",
+      "type": "Noun",
+      "English": [
+        "hatred"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "prīncipium",
+      "type": "Noun",
+      "English": [
+        "beginning"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "scalpellum",
+      "type": "Noun",
+      "English": [
+        "scalpel, surgical knife"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "theātrum",
+      "type": "Noun",
+      "English": [
+        "theatre"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "certāmen",
+      "type": "Noun",
+      "English": [
+        "contest, fight"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "gladiātor",
+      "type": "Noun",
+      "English": [
+        "gladiator"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "mēns",
+      "type": "Noun",
+      "English": [
+        "mind"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "opēs",
+      "type": "Noun",
+      "English": [
+        "resources, wealth"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "passer",
+      "type": "Noun",
+      "English": [
+        "sparrow"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ratiō",
+      "type": "Noun",
+      "English": [
+        "reason"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "rēte",
+      "type": "Noun",
+      "English": [
+        "net"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "spectātor",
+      "type": "Noun",
+      "English": [
+        "spectator"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "testis",
+      "type": "Noun",
+      "English": [
+        "witness"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "anus",
+      "type": "Noun",
+      "English": [
+        "old woman"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "rīsus",
+      "type": "Noun",
+      "English": [
+        "laughter, laugh"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "sinus",
+      "type": "Noun",
+      "English": [
+        "fold (of toga)"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "nīl",
+      "type": "Noun",
+      "English": [
+        "nothing"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "dactylus",
+      "type": "Noun",
+      "English": [
+        "dactyl"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "diphthongus",
+      "type": "Noun",
+      "English": [
+        "diphthong"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "epigramma",
+      "type": "Noun",
+      "English": [
+        "epigram"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "hendecasyllabus",
+      "type": "Noun",
+      "English": [
+        "hendecasyllable"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "hexameter",
+      "type": "Noun",
+      "English": [
+        "hexameter"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "iambus",
+      "type": "Noun",
+      "English": [
+        "iamb"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "pentameter",
+      "type": "Noun",
+      "English": [
+        "pentameter"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "spondēus",
+      "type": "Noun",
+      "English": [
+        "spondee"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "trochaeus",
+      "type": "Noun",
+      "English": [
+        "Trochee"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "versiculus",
+      "type": "Noun",
+      "English": [
+        "short verse"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Plautus",
+      "type": "Noun",
+      "English": [
+        "Plautus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Catullus",
+      "type": "Noun",
+      "English": [
+        "Catullus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Lesbia",
+      "type": "Noun",
+      "English": [
+        "Lesbia"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Orcus",
+      "type": "Noun",
+      "English": [
+        "Orcus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Fabullus",
+      "type": "Noun",
+      "English": [
+        "Fabullus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Mārtiālis",
+      "type": "Noun",
+      "English": [
+        "Martial"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Pontiliānum",
+      "type": "Noun",
+      "English": [
+        "Pontiliānum"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Cinna",
+      "type": "Noun",
+      "English": [
+        "Cinna"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Māmercum",
+      "type": "Noun",
+      "English": [
+        "Mamercum"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Sabidius",
+      "type": "Noun",
+      "English": [
+        "Sabidius"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Marō",
+      "type": "Noun",
+      "English": [
+        "Maro"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Faustus",
+      "type": "Noun",
+      "English": [
+        "Faustus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Laecānia",
+      "type": "Noun",
+      "English": [
+        "Laecania"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Thāis",
+      "type": "Noun",
+      "English": [
+        "Thais"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Prīscus",
+      "type": "Noun",
+      "English": [
+        "Priscus"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Bassa",
+      "type": "Noun",
+      "English": [
+        "Bassa"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Gellia",
+      "type": "Noun",
+      "English": [
+        "Gellia"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Caediciānus",
+      "type": "Noun",
+      "English": [
+        "Caedicianus"
+      ],
+      "sentences": []
+    }
+  ],
+  "Chapter 35": [
+    {
+      "Latin": "īra",
+      "type": "Noun",
+      "English": [
+        "anger"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Mūsa",
+      "type": "Noun",
+      "English": [
+        "Muse"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "scamnum",
+      "type": "Noun",
+      "English": [
+        "stool"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "admīrātiō",
+      "type": "Noun",
+      "English": [
+        "wonder, admiration"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "ōrātiō",
+      "type": "Noun",
+      "English": [
+        "speech"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "sacerdōs",
+      "type": "Noun",
+      "English": [
+        "priest, priestess"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "affectus",
+      "type": "Noun",
+      "English": [
+        "mood, feeling"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "comparātiō",
+      "type": "Noun",
+      "English": [
+        "comparison"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "coniugātiō",
+      "type": "Noun",
+      "English": [
+        "the act of combining, conjugation"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "coniūnctiō",
+      "type": "Noun",
+      "English": [
+        "conjunction"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "interiectiō",
+      "type": "Noun",
+      "English": [
+        "interjection"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "quālitās",
+      "type": "Noun",
+      "English": [
+        "quality"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "quantitās",
+      "type": "Noun",
+      "English": [
+        "quantity, degree"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "significātiō",
+      "type": "Noun",
+      "English": [
+        "meaning, sense"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "speciēs",
+      "type": "Noun",
+      "English": [
+        "appearance, aspect, sort"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "synōnymum",
+      "type": "Noun",
+      "English": [
+        "synonym"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "mentiō",
+      "type": "Noun",
+      "English": [
+        "mention"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Aenēis",
+      "type": "Noun",
+      "English": [
+        "Aeneid"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Aenēās",
+      "type": "Noun",
+      "English": [
+        "Aeneas"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Vergilius",
+      "type": "Noun",
+      "English": [
+        "Virgil"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Carthāgō",
+      "type": "Noun",
+      "English": [
+        "Carthage"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "Dīdō",
+      "type": "Noun",
+      "English": [
+        "Dido"
+      ],
+      "sentences": []
+    },
+    {
+      "Latin": "rēgīna",
+      "type": "Noun",
+      "English": [
+        "queen"
+      ],
+      "sentences": []
+    }
+  ]
+}
