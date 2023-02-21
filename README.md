@@ -5,8 +5,8 @@ The goal is to help facilitate the natural language model to learn Latin. The wo
 
 # TODO:
 
-- <strike>Add word in ***lingua latina per se illustrata*** as that is the main book to learn Latin
--  <strike>Clean up the front end to make it look usable
+- <strike>Add word in ***lingua latina per se illustrata*** as that is the main book to learn Latin</strike>
+- <strike>Clean up the front end to make it look usable</strike>
 -  Add multiple sources of pictures (Unsplash) 
 - Add the ability to upload pictures to demonstrate words vs relying on third part api's 
 - Auto check correctness if translated
