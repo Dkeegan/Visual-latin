@@ -17,15 +17,17 @@
         </select>
         <button type="submit">Get Word</button>
     </form>
-    <div>
-        <h3>English Word: {{ englishWord }}</h3>
+    <div>        
         <h3>Latin Word: {{ latinWord }}</h3>
+        <h3>Latin sentence: {{latinsentence}}</h3>
+        <h3>Latin Type: {{latin_word_type}}</h3>         
     </div>
         <div class="grid">
             {% if photo_data %}
                 {% for photo_url, photographer, photographer_url in photo_data %}
                     <div class="photo">
                         <a href="{{ photo_url }}" target="_blank"><img src="{{ photo_url }}" alt="{{ english }}"></a>
+                        <a href="{{ photographer_url }}" target="_blank">{{ photographer }}</a>
                     </div>
                 {% endfor %}
             {% else %}
@@ -34,6 +36,6 @@
         </div>
     </div>
 </section>
- 
+ <footer>English Word: {{ englishWord }}</footer>
 </body>
 </html>
