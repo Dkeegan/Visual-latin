@@ -5,6 +5,7 @@
     <title>Latin Words</title>
 </head>
 <body>
+
     <section>
         <div class="container">
 
@@ -17,23 +18,25 @@
         </select>
         <button type="submit">Get Word</button>
     </form>
-    <div>
-        <h3>English Word: {{ englishWord }}</h3>
+    <div>        
         <h3>Latin Word: {{ latinWord }}</h3>
+        <h3>Latin sentence: {{latinsentence}}</h3>
+        <h3>Latin Type: {{latin_word_type}}</h3>    
     </div>
         <div class="grid">
-            {% if photo_data %}
-                {% for photo_url, photographer, photographer_url in photo_data %}
-                    <div class="photo">
-                        <a href="{{ photo_url }}" target="_blank"><img src="{{ photo_url }}" alt="{{ english }}"></a>
-                    </div>
-                {% endfor %}
+            {% if wiki_photos %}
+            {% for url in wiki_photos %}
+              <img src="{{ url }}">
+            {% endfor %}
+
             {% else %}
-                <p>No photos available.</p>
-            {% endif %}
+            <p>No wiki photos available.</p>
+             {% endif %}   
+             
+
         </div>
     </div>
 </section>
- 
+ <footer>English Word: {{ englishWord }}</footer>
 </body>
 </html>
